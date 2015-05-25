@@ -1,0 +1,95 @@
+/* RIFLES */
+//338 Norma Magnum:
+"MMG_01_base_F","150Rnd_93x64_Mag"
+["MMG_01_hex_ACRO_LP_F","150Rnd_93x64_Mag"],
+["MMG_01_hex_F","150Rnd_93x64_Mag"],
+["MMG_01_tan_F","150Rnd_93x64_Mag"],
+["MMG_02_base_F","150Rnd_93x64_Mag"],
+["MMG_02_black_F","150Rnd_93x64_Mag"],
+["MMG_02_camo_F","150Rnd_93x64_Mag"],
+["MMG_02_sand_F","150Rnd_93x64_Mag"],
+["MMG_02_sand_RCO_LP_F","150Rnd_93x64_Mag"],
+
+//MAR-10 .338:
+["srifle_DMR_02_ACO_F","10Rnd_338_Mag"],
+["srifle_DMR_02_ARCO_F","10Rnd_338_Mag"],
+["srifle_DMR_02_camo_AMS_LP_F","10Rnd_338_Mag"],
+["srifle_DMR_02_camo_F","10Rnd_338_Mag"],
+["srifle_DMR_02_DMS_F","10Rnd_338_Mag"],
+["srifle_DMR_02_F","10Rnd_338_Mag"],
+["srifle_DMR_02_MRCO_F","10Rnd_338_Mag"],
+["srifle_DMR_02_sniper_AMS_LP_S_F","10Rnd_338_Mag"],
+["srifle_DMR_02_sniper_F","10Rnd_338_Mag"],
+["srifle_DMR_02_SOS_F","10Rnd_338_Mag"],
+
+//Mk-I EMR:
+["srifle_DMR_03_ACO_F","20Rnd_762x51_Mag"],
+["srifle_DMR_03_ARCO_F","20Rnd_762x51_Mag"],
+["srifle_DMR_03_DMS_F","20Rnd_762x51_Mag"],
+["srifle_DMR_03_DMS_snds_F","20Rnd_762x51_Mag"],
+["srifle_DMR_03_F","20Rnd_762x51_Mag"],
+["srifle_DMR_03_khaki_F","20Rnd_762x51_Mag"],
+["srifle_DMR_03_MRCO_F","20Rnd_762x51_Mag"],
+["srifle_DMR_03_multicam_F","20Rnd_762x51_Mag"],
+["srifle_DMR_03_SOS_F","20Rnd_762x51_Mag"],
+["srifle_DMR_03_spotter_F","20Rnd_762x51_Mag"],
+["srifle_DMR_03_tan_AMS_LP_F","20Rnd_762x51_Mag"],
+["srifle_DMR_03_tan_F","20Rnd_762x51_Mag"],
+["srifle_DMR_03_woodland_F","20Rnd_762x51_Mag"],
+
+//ASP-1 Kir 12.7 mm:
+["srifle_DMR_04_ACO_F","10Rnd_127x54_Mag"],
+["srifle_DMR_04_ARCO_F","10Rnd_127x54_Mag"],
+["srifle_DMR_04_DMS_F","10Rnd_127x54_Mag"],
+["srifle_DMR_04_F","10Rnd_127x54_Mag"],
+["srifle_DMR_04_MRCO_F","10Rnd_127x54_Mag"],
+["srifle_DMR_04_NS_LP_F","10Rnd_127x54_Mag"],
+["srifle_DMR_04_SOS_F","10Rnd_127x54_Mag"],
+["srifle_DMR_04_Tan_F","10Rnd_127x54_Mag"],
+
+//Cyrus 9.3 mm:
+["srifle_DMR_05_ACO_F","10Rnd_93x64_DMR_05_Mag"],
+["srifle_DMR_05_ARCO_F","10Rnd_93x64_DMR_05_Mag"],
+["srifle_DMR_05_blk_F","10Rnd_93x64_DMR_05_Mag"],
+["srifle_DMR_05_DMS_F","10Rnd_93x64_DMR_05_Mag"],
+["srifle_DMR_05_DMS_snds_F","10Rnd_93x64_DMR_05_Mag"],
+["srifle_DMR_05_hex_F","10Rnd_93x64_DMR_05_Mag"],
+["srifle_DMR_05_KHS_LP_F","10Rnd_93x64_DMR_05_Mag"],
+["srifle_DMR_05_MRCO_F","10Rnd_93x64_DMR_05_Mag"],
+["srifle_DMR_05_SOS_F","10Rnd_93x64_DMR_05_Mag"],
+["srifle_DMR_05_tan_F","10Rnd_93x64_DMR_05_Mag"],
+
+//Mk 14 7.62 mm:
+["srifle_DMR_06_camo_F,"20Rnd_762x51_Mag"],
+["srifle_DMR_06_camo_khs_F,"20Rnd_762x51_Mag"],
+["srifle_DMR_06_olive_F,"20Rnd_762x51_Mag"]
+
+/* AMMO */
+
+
+//338 Norma Magnum:
+"150Rnd_93x64_Mag",
+//MAR-10 .338:
+"10Rnd_338_Mag",
+//Mk-I EMR:
+"20Rnd_762x51_Mag",
+//ASP-1 Kir 12.7 mm:
+"10Rnd_127x54_Mag",
+//Cyrus 9.3 mm:
+"10Rnd_93x64_DMR_05_Mag",
+//Mk 14 7.62 mm:
+"20Rnd_762x51_Mag",
+
+ 
+/* OPTICS */
+//optic_AMS
+"optic_AMS_base",
+"optic_AMS_khk",
+"optic_AMS_snd",
+
+//Kaliha (KHS):  
+"optic_KHS_base",
+"optic_KHS_blk",
+"optic_KHS_hex",
+"optic_KHS_old",
+"optic_KHS_tan",

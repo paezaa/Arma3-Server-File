@@ -1,0 +1,2000 @@
+=====================================================================
+== F:\Arma3server\Arma 3 Server\arma3server.exe
+== "F:\Arma3server\Arma 3 Server\arma3server.exe"  -port=2302 "-config=F:\Arma3server\Arma 3 Server\TADST\sx\TADST_config.cfg" "-cfg=F:\Arma3server\Arma 3 Server\TADST\sx\TADST_basic.cfg" "-profiles=F:\Arma3server\Arma 3 Server\TADST\sx" -name=sx "-mod=@epoch;@epochhive;@m3editor;@sem;@ZEVMission"
+
+Original output filename: Arma3Retail_Server
+Exe timestamp: 2015/05/04 15:32:44
+Current time:  2015/05/25 11:28:14
+
+Type: Public
+Branch: Stable
+Version: 1.44.130654
+
+Allocator: F:\Arma3server\Arma 3 Server\dll\tbb4malloc_bi.dll
+=====================================================================
+
+11:28:14 ManagerConfig()
+11:28:14 Cannot register unknown string STR_USRACT_SWITCH_GUNS
+11:28:14 Cannot register unknown string STR_USRACT_SWITCH_ROCKETS
+11:28:14 Cannot register unknown string STR_USRACT_SWITCH_MISSILES
+11:28:14 Cannot register unknown string STR_USRACT_SWITCH_BOMBS
+11:28:14 Cannot register unknown string STR_CONTROLS_TOOLTIPS_SWITCH_GUNS
+11:28:14 Cannot register unknown string STR_CONTROLS_TOOLTIPS_SWITCH_ROCKETS
+11:28:14 Cannot register unknown string STR_CONTROLS_TOOLTIPS_SWITCH_MISSILES
+11:28:14 Cannot register unknown string STR_CONTROLS_TOOLTIPS_SWITCH_BOMBS
+11:28:24 Conflicting addon A3_epoch_ZEVMission in 'zevmission\', previous definition in 'a3_epoch_zevmission\'
+11:28:25 Updating base class ->Base, by a3\dubbing_radio_f\config.bin/CfgHQIdentities/PAPA_BEAR/
+11:28:25 Updating base class ->Base, by a3\dubbing_radio_f\config.bin/CfgHQIdentities/AirBase/
+11:28:26 Updating base class ->HouseBase, by a3\data_f\config.bin/CfgVehicles/House/
+11:28:26 Updating base class ->Thing, by a3\data_f\config.bin/CfgVehicles/thingX/
+11:28:26 Updating base class RscShortcutButton->RscButton, by a3\editor_f\config.bin/RscDisplayEditObject/Controls/B_OK/
+11:28:26 Updating base class RscSliderH->RscXSliderH, by a3\editor_f\config.bin/RscDisplayEditObject/Slider/
+11:28:26 Updating base class RscText->RscPicture, by a3\editor_f\config.bin/RscDisplayEditObject/Preview/
+11:28:26 Updating base class RscShortcutButton->RscButton, by a3\editor_f\config.bin/RscDisplayMissionLoad/Controls/B_OK/
+11:28:26 Updating base class RscShortcutButton->RscButton, by a3\editor_f\config.bin/RscDisplayMissionSave/Controls/B_OK/
+11:28:26 Updating base class ->House, by a3\structures_f\config.bin/CfgVehicles/House_F/
+11:28:26 Updating base class ->House_F, by a3\structures_f\config.bin/CfgVehicles/House_Small_F/
+11:28:26 Updating base class ->Default, by a3\anims_f\config\sdr\config.bin/CfgMovesBasic/DefaultDie/
+11:28:26 Updating base class ->RifleBaseLowStandActions, by a3\anims_f\config\sdr\config.bin/CfgMovesBasic/Actions/RifleBaseStandActions/
+11:28:26 Updating base class ->Default, by a3\anims_f\config\sdr\config.bin/CfgMovesMaleSdr/States/Crew/
+11:28:26 Updating base class ->StandBase, by a3\anims_f\config\sdr\config.bin/CfgMovesMaleSdr/States/AmovPercMstpSnonWnonDnon/
+11:28:26 Updating base class ->RscControlsGroup, by a3\ui_f\config.bin/RscControlsGroupNoScrollbars/
+11:28:26 Updating base class ->RscControlsGroup, by a3\ui_f\config.bin/RscControlsGroupNoHScrollbars/
+11:28:26 Updating base class ->RscControlsGroup, by a3\ui_f\config.bin/RscControlsGroupNoVScrollbars/
+11:28:26 Updating base class ->RscText, by a3\ui_f\config.bin/RscLine/
+11:28:26 Updating base class ->RscActiveText, by a3\ui_f\config.bin/RscActivePicture/
+11:28:26 Updating base class ->RscButton, by a3\ui_f\config.bin/RscButtonTextOnly/
+11:28:26 Updating base class ->RscShortcutButton, by a3\ui_f\config.bin/RscShortcutButtonMain/
+11:28:26 Updating base class ->RscShortcutButton, by a3\ui_f\config.bin/RscButtonEditor/
+11:28:26 Updating base class ->RscShortcutButton, by a3\ui_f\config.bin/RscIGUIShortcutButton/
+11:28:26 Updating base class ->RscShortcutButton, by a3\ui_f\config.bin/RscGearShortcutButton/
+11:28:26 Updating base class ->RscShortcutButton, by a3\ui_f\config.bin/RscButtonMenu/
+11:28:26 Updating base class ->RscButtonMenu, by a3\ui_f\config.bin/RscButtonMenuOK/
+11:28:26 Updating base class ->RscButtonMenu, by a3\ui_f\config.bin/RscButtonMenuCancel/
+11:28:26 Updating base class ->RscButtonMenu, by a3\ui_f\config.bin/RscButtonMenuSteam/
+11:28:26 Updating base class ->RscText, by a3\ui_f\config.bin/RscLoadingText/
+11:28:26 Updating base class ->RscListBox, by a3\ui_f\config.bin/RscIGUIListBox/
+11:28:26 Updating base class ->RscListNBox, by a3\ui_f\config.bin/RscIGUIListNBox/
+11:28:26 Updating base class ->RscText, by a3\ui_f\config.bin/RscBackground/
+11:28:26 Updating base class ->RscText, by a3\ui_f\config.bin/RscBackgroundGUI/
+11:28:26 Updating base class ->RscPicture, by a3\ui_f\config.bin/RscBackgroundGUILeft/
+11:28:26 Updating base class ->RscPicture, by a3\ui_f\config.bin/RscBackgroundGUIRight/
+11:28:26 Updating base class ->RscPicture, by a3\ui_f\config.bin/RscBackgroundGUIBottom/
+11:28:26 Updating base class ->RscText, by a3\ui_f\config.bin/RscBackgroundGUITop/
+11:28:26 Updating base class ->RscText, by a3\ui_f\config.bin/RscBackgroundGUIDark/
+11:28:26 Updating base class ->RscPictureKeepAspect, by a3\ui_f\config.bin/RscBackgroundLogo/
+11:28:26 Updating base class ->RscMapControl, by a3\ui_f\config.bin/RscMapControlEmpty/
+11:28:26 Updating base class ->RscPicture, by a3\ui_f\config.bin/CA_Mainback/
+11:28:26 Updating base class ->CA_Mainback, by a3\ui_f\config.bin/CA_Back/
+11:28:26 Updating base class ->CA_Mainback, by a3\ui_f\config.bin/CA_Title_Back/
+11:28:26 Updating base class ->CA_Mainback, by a3\ui_f\config.bin/CA_Black_Back/
+11:28:26 Updating base class ->RscTitle, by a3\ui_f\config.bin/CA_Title/
+11:28:26 Updating base class ->RscPictureKeepAspect, by a3\ui_f\config.bin/CA_Logo/
+11:28:26 Updating base class ->CA_Logo, by a3\ui_f\config.bin/CA_Logo_Small/
+11:28:26 Updating base class ->RscButton, by a3\ui_f\config.bin/CA_RscButton/
+11:28:26 Updating base class ->CA_RscButton, by a3\ui_f\config.bin/CA_RscButton_dialog/
+11:28:26 Updating base class ->RscActiveText, by a3\ui_f\config.bin/CA_Ok/
+11:28:26 Updating base class ->RscText, by a3\ui_f\config.bin/CA_Ok_image/
+11:28:26 Updating base class ->RscText, by a3\ui_f\config.bin/CA_Ok_image2/
+11:28:26 Updating base class ->RscText, by a3\ui_f\config.bin/CA_Ok_text/
+11:28:26 Updating base class ->RscPicture, by a3\ui_f\config.bin/RscVignette/
+11:28:26 Updating base class ->RscControlsGroupNoScrollbars, by a3\ui_f\config.bin/RscMapControlTooltip/
+11:28:26 Updating base class RscShortcutButton->RscButtonMenu, by a3\ui_f\config.bin/RscDisplayDebug/Controls/B_OK/
+11:28:26 Updating base class RscShortcutButton->RscButtonMenu, by a3\ui_f\config.bin/RscDisplayDebug/Controls/B_Cancel/
+11:28:26 Updating base class RscShortcutButton->RscButtonMenu, by a3\ui_f\config.bin/RscDisplayDebug/Controls/B_Clear/
+11:28:26 Updating base class ->RscText, by a3\ui_f\config.bin/RscDisplayCapture/controls/TimeLines/
+11:28:26 Updating base class RscShortcutButton->RscButtonMenu, by a3\ui_f\config.bin/RscDisplayCapture/controls/ButtonAverages/
+11:28:26 Updating base class RscShortcutButton->RscButtonMenu, by a3\ui_f\config.bin/RscDisplayCapture/controls/ButtonSavePreviousData/
+11:28:26 Updating base class RscShortcutButton->RscButtonMenu, by a3\ui_f\config.bin/RscDisplayCapture/controls/ButtonPreviousData/
+11:28:26 Updating base class RscControlsGroup->RscControlsGroupNoHScrollbars, by a3\ui_f\config.bin/RscDisplayMain/controls/ModIcons/
+11:28:26 Updating base class RscPicture->RscPictureKeepAspect, by a3\ui_f\config.bin/RscDisplayMain/IconPicture/
+11:28:26 Updating base class IconPicture->RscPictureKeepAspect, by a3\ui_f\config.bin/RscDisplayMain/DlcOwnedIconPicture/
+11:28:26 Updating base class IconPicture->RscPictureKeepAspect, by a3\ui_f\config.bin/RscDisplayMain/DlcIconPicture/
+11:28:26 Updating base class RscListBox->RscCombo, by a3\ui_f\config.bin/RscDisplayCustomizeController/Steepness/
+11:28:26 Updating base class ->RscStandardDisplay, by a3\ui_f\config.bin/RscDisplayControlSchemes/
+11:28:26 Updating base class ButtonOK->RscButtonMenuCancel, by a3\ui_f\config.bin/RscDisplayControlSchemes/controls/ButtonCancel/
+11:28:26 Updating base class RscButton->RscButtonMenuOK, by a3\ui_f\config.bin/RscDisplayControlSchemes/controls/ButtonOK/
+11:28:26 Updating base class RscPicture->RscPictureKeepAspect, by a3\ui_f\config.bin/RscDisplayFileSelectImage/controls/OverviewPicture/
+11:28:26 Updating base class RscShortcutButton->RscButtonMenuCancel, by a3\ui_f\config.bin/RscDisplayFieldManual/controls/ButtonCancel/
+11:28:26 Cannot delete class B_KickOff, it is referenced somewhere (used as a base class probably).
+11:28:26 Updating base class RscButton->RscButtonMenuCancel, by a3\ui_f\config.bin/RscDisplayPublishMission/controls/ButtonCancel/
+11:28:26 Updating base class RscShortcutButton->RscButtonMenuOK, by a3\ui_f\config.bin/RscDisplayPublishMissionSelectTags/controls/ButtonOK/
+11:28:26 Updating base class ButtonOK->RscButtonMenuCancel, by a3\ui_f\config.bin/RscDisplayPublishMissionSelectTags/controls/ButtonCancel/
+11:28:26 Updating base class ->RscSubmenu, by a3\ui_f\config.bin/RscMainMenu/
+11:28:26 Cannot update non class from class a3\ui_f\config.bin/RscCallSupport/Items/
+11:28:26 Cannot update non class from class a3\ui_f\config.bin/RscRadio/Items/
+11:28:26 Updating base class RscStandardDisplay->, by a3\ui_f_mp_mark\config.bin/RscDisplayRespawn/
+11:28:26 Updating base class ->BulletCore, by a3\weapons_f\config.bin/CfgAmmo/BulletBase/
+11:28:26 Updating base class ->Default, by a3\weapons_f\config.bin/CfgMagazines/CA_Magazine/
+11:28:26 Updating base class ->ReammoBox, by a3\weapons_f\config.bin/cfgVehicles/WeaponHolder/
+11:28:26 Updating base class ->SlotInfo, by a3\weapons_f\config.bin/CowsSlot/
+11:28:26 Updating base class ->SlotInfo, by a3\weapons_f\config.bin/PointerSlot/
+11:28:26 Updating base class ->PistolCore, by a3\weapons_f\config.bin/cfgWeapons/Pistol/
+11:28:26 Updating base class ->WeaponSlotsInfo, by a3\weapons_f\config.bin/cfgWeapons/Pistol_Base_F/WeaponSlotsInfo/
+11:28:26 Updating base class ->Default, by a3\weapons_f\config.bin/cfgWeapons/ItemCore/
+11:28:26 Updating base class ->ReammoBox, by a3\weapons_f\ammoboxes\config.bin/CfgVehicles/Bag_Base/
+11:28:26 Updating base class ->ThingX, by a3\weapons_f\ammoboxes\config.bin/CfgVehicles/WeaponHolderSimulated/
+11:28:26 Updating base class NewTurret->, by a3\static_f_mark\designator_01\config.bin/CfgVehicles/StaticWeapon/Turrets/MainTurret/
+11:28:26 Updating base class ->Ship, by a3\boat_f\config.bin/CfgVehicles/Ship_F/
+11:28:26 Updating base class ->NewTurret, by a3\static_f\aa_01\config.bin/CfgVehicles/StaticWeapon/Turrets/MainTurret/
+11:28:26 Updating base class ->SlotInfo, by a3\weapons_f_mark\config.bin/UnderBarrelSlot/
+11:28:27 ragdollHitDmgLimit (0.000000) is lower than minimum (0.010000) and it was set to min.
+11:28:27 Initializing Steam Manager
+11:28:27 ManagerConfig()
+11:28:27 Starting initial content check.
+11:28:27 Steam Manager initialized.
+11:28:27 
+11:28:27 ==== Loaded addons ====
+11:28:27 
+11:28:27 dta\bin.pbo - unknown
+11:28:27 dta\core.pbo - 72362
+11:28:27 dta\languagecore_f.pbo - 82715
+11:28:27 F:\Arma3server\Arma 3 Server\@ZEVMission\addons\a3_epoch_zevmission.pbo - unknown
+11:28:27 F:\Arma3server\Arma 3 Server\@m3editor\addons\a3_m3editor.pbo - unknown
+11:28:27 F:\Arma3server\Arma 3 Server\@epochhive\addons\a3eai.pbo - unknown
+11:28:27 F:\Arma3server\Arma 3 Server\@epochhive\addons\a3_epoch_server.pbo - unknown
+11:28:27 F:\Arma3server\Arma 3 Server\@epochhive\addons\a3_epoch_server_settings.pbo - unknown
+11:28:27 F:\Arma3server\Arma 3 Server\@epochhive\addons\custom_server.pbo - unknown
+11:28:27 F:\Arma3server\Arma 3 Server\@epochhive\addons\fums.pbo - unknown
+11:28:27 F:\Arma3server\Arma 3 Server\@epochhive\addons\sdrop.pbo - unknown
+11:28:27 F:\Arma3server\Arma 3 Server\@epochhive\addons\sem.pbo - unknown
+11:28:27 F:\Arma3server\Arma 3 Server\@epochhive\addons\traderatms.pbo - unknown
+11:28:27 F:\Arma3server\Arma 3 Server\@epochhive\addons\zevmission.pbo - unknown
+11:28:27 F:\Arma3server\Arma 3 Server\@epoch\addons\a2_epoch_weapons.pbo - unknown
+11:28:27 F:\Arma3server\Arma 3 Server\@epoch\addons\a3_epoch_assets.pbo - unknown
+11:28:27 F:\Arma3server\Arma 3 Server\@epoch\addons\a3_epoch_assets_1.pbo - unknown
+11:28:27 F:\Arma3server\Arma 3 Server\@epoch\addons\a3_epoch_assets_2.pbo - unknown
+11:28:27 F:\Arma3server\Arma 3 Server\@epoch\addons\a3_epoch_assets_3.pbo - unknown
+11:28:27 F:\Arma3server\Arma 3 Server\@epoch\addons\a3_epoch_code.pbo - unknown
+11:28:27 F:\Arma3server\Arma 3 Server\@epoch\addons\a3_epoch_config.pbo - unknown
+11:28:27 F:\Arma3server\Arma 3 Server\@epoch\addons\a3_epoch_functions.pbo - unknown
+11:28:27 F:\Arma3server\Arma 3 Server\@epoch\addons\a3_epoch_language.pbo - unknown
+11:28:27 F:\Arma3server\Arma 3 Server\@epoch\addons\a3_epoch_structures.pbo - unknown
+11:28:27 F:\Arma3server\Arma 3 Server\@epoch\addons\a3_epoch_underground.pbo - unknown
+11:28:27 F:\Arma3server\Arma 3 Server\@epoch\addons\a3_epoch_vehicles.pbo - unknown
+11:28:27 F:\Arma3server\Arma 3 Server\@epoch\addons\a3_epoch_vehicles_1.pbo - unknown
+11:28:27 F:\Arma3server\Arma 3 Server\@epoch\addons\a3_epoch_weapons.pbo - unknown
+11:28:27 F:\Arma3server\Arma 3 Server\mark\addons\anims_f_mark.ebo - 82212
+11:28:27 F:\Arma3server\Arma 3 Server\mark\addons\characters_f_mark.ebo - 82734
+11:28:27 F:\Arma3server\Arma 3 Server\mark\addons\data_f_mark.ebo - 82269
+11:28:27 F:\Arma3server\Arma 3 Server\mark\addons\dubbing_f_mark.ebo - 81923
+11:28:27 F:\Arma3server\Arma 3 Server\mark\addons\dubbing_f_mp_mark.ebo - 81923
+11:28:27 F:\Arma3server\Arma 3 Server\mark\addons\functions_f_mark.ebo - 82496
+11:28:27 F:\Arma3server\Arma 3 Server\mark\addons\functions_f_mp_mark.ebo - 82700
+11:28:27 F:\Arma3server\Arma 3 Server\mark\addons\languagemissions_f_mark.ebo - 82715
+11:28:27 F:\Arma3server\Arma 3 Server\mark\addons\languagemissions_f_mp_mark.ebo - 82715
+11:28:27 F:\Arma3server\Arma 3 Server\mark\addons\language_f_mark.ebo - 82715
+11:28:27 F:\Arma3server\Arma 3 Server\mark\addons\language_f_mp_mark.ebo - 82715
+11:28:27 F:\Arma3server\Arma 3 Server\mark\addons\missions_f_mark.ebo - 82255
+11:28:27 F:\Arma3server\Arma 3 Server\mark\addons\missions_f_mark_data.ebo - 81471
+11:28:27 F:\Arma3server\Arma 3 Server\mark\addons\missions_f_mark_video.ebo - 81429
+11:28:27 F:\Arma3server\Arma 3 Server\mark\addons\missions_f_mp_mark.ebo - 82692
+11:28:27 F:\Arma3server\Arma 3 Server\mark\addons\missions_f_mp_mark_data.ebo - 81558
+11:28:27 F:\Arma3server\Arma 3 Server\mark\addons\modules_f_mark.ebo - 81710
+11:28:27 F:\Arma3server\Arma 3 Server\mark\addons\modules_f_mp_mark.ebo - 82691
+11:28:27 F:\Arma3server\Arma 3 Server\mark\addons\music_f_mark.ebo - 81958
+11:28:27 F:\Arma3server\Arma 3 Server\mark\addons\music_f_mark_music.ebo - 81930
+11:28:27 F:\Arma3server\Arma 3 Server\mark\addons\sounds_f_mark.ebo - 81866
+11:28:27 F:\Arma3server\Arma 3 Server\mark\addons\static_f_mark.ebo - 81968
+11:28:27 F:\Arma3server\Arma 3 Server\mark\addons\structures_f_mark.ebo - 82615
+11:28:27 F:\Arma3server\Arma 3 Server\mark\addons\supplies_f_mark.ebo - 79552
+11:28:27 F:\Arma3server\Arma 3 Server\mark\addons\ui_f_mark.ebo - 82421
+11:28:27 F:\Arma3server\Arma 3 Server\mark\addons\ui_f_mp_mark.ebo - 82708
+11:28:27 F:\Arma3server\Arma 3 Server\mark\addons\weapons_f_mark.ebo - 82442
+11:28:27 F:\Arma3server\Arma 3 Server\heli\addons\air_f_heli.pbo - 82564
+11:28:27 F:\Arma3server\Arma 3 Server\heli\addons\anims_f_heli.pbo - 80475
+11:28:27 F:\Arma3server\Arma 3 Server\heli\addons\boat_f_heli.pbo - 82564
+11:28:27 F:\Arma3server\Arma 3 Server\heli\addons\cargoposes_f_heli.pbo - 80475
+11:28:27 F:\Arma3server\Arma 3 Server\heli\addons\data_f_heli.pbo - 80757
+11:28:27 F:\Arma3server\Arma 3 Server\heli\addons\dubbing_f_heli.pbo - 75138
+11:28:27 F:\Arma3server\Arma 3 Server\heli\addons\functions_f_heli.pbo - 77667
+11:28:27 F:\Arma3server\Arma 3 Server\heli\addons\languagemissions_f_heli.pbo - 82715
+11:28:27 F:\Arma3server\Arma 3 Server\heli\addons\language_f_heli.pbo - 82715
+11:28:27 F:\Arma3server\Arma 3 Server\heli\addons\missions_f_heli.pbo - 82384
+11:28:27 F:\Arma3server\Arma 3 Server\heli\addons\missions_f_heli_data.pbo - 75977
+11:28:27 F:\Arma3server\Arma 3 Server\heli\addons\missions_f_heli_video.pbo - 75065
+11:28:27 F:\Arma3server\Arma 3 Server\heli\addons\modules_f_heli.pbo - 80344
+11:28:27 F:\Arma3server\Arma 3 Server\heli\addons\music_f_heli.pbo - 76012
+11:28:27 F:\Arma3server\Arma 3 Server\heli\addons\music_f_heli_music.pbo - 76012
+11:28:27 F:\Arma3server\Arma 3 Server\heli\addons\soft_f_heli.pbo - 82564
+11:28:27 F:\Arma3server\Arma 3 Server\heli\addons\sounds_f_heli.pbo - 79398
+11:28:27 F:\Arma3server\Arma 3 Server\heli\addons\structures_f_heli.pbo - 82615
+11:28:27 F:\Arma3server\Arma 3 Server\heli\addons\supplies_f_heli.pbo - 82616
+11:28:27 F:\Arma3server\Arma 3 Server\heli\addons\ui_f_heli.pbo - 76986
+11:28:27 F:\Arma3server\Arma 3 Server\kart\addons\anims_f_kart.pbo - 80475
+11:28:27 F:\Arma3server\Arma 3 Server\kart\addons\characters_f_kart.pbo - 79903
+11:28:27 F:\Arma3server\Arma 3 Server\kart\addons\data_f_kart.pbo - 80888
+11:28:27 F:\Arma3server\Arma 3 Server\kart\addons\languagemissions_f_kart.pbo - 82715
+11:28:27 F:\Arma3server\Arma 3 Server\kart\addons\language_f_kart.pbo - 82715
+11:28:27 F:\Arma3server\Arma 3 Server\kart\addons\missions_f_kart.pbo - 76770
+11:28:27 F:\Arma3server\Arma 3 Server\kart\addons\missions_f_kart_data.pbo - 75687
+11:28:27 F:\Arma3server\Arma 3 Server\kart\addons\modules_f_kart.pbo - 80976
+11:28:27 F:\Arma3server\Arma 3 Server\kart\addons\modules_f_kart_data.pbo - 74588
+11:28:27 F:\Arma3server\Arma 3 Server\kart\addons\soft_f_kart.pbo - 82564
+11:28:27 F:\Arma3server\Arma 3 Server\kart\addons\sounds_f_kart.pbo - 79398
+11:28:27 F:\Arma3server\Arma 3 Server\kart\addons\structures_f_kart.pbo - 82615
+11:28:27 F:\Arma3server\Arma 3 Server\kart\addons\ui_f_kart.pbo - 73106
+11:28:27 F:\Arma3server\Arma 3 Server\kart\addons\weapons_f_kart.pbo - 80344
+11:28:27 F:\Arma3server\Arma 3 Server\curator\addons\data_f_curator.pbo - 82282
+11:28:27 F:\Arma3server\Arma 3 Server\curator\addons\functions_f_curator.pbo - 78988
+11:28:27 F:\Arma3server\Arma 3 Server\curator\addons\language_f_curator.pbo - 82715
+11:28:27 F:\Arma3server\Arma 3 Server\curator\addons\missions_f_curator.pbo - 80344
+11:28:27 F:\Arma3server\Arma 3 Server\curator\addons\modules_f_curator.pbo - 81185
+11:28:27 F:\Arma3server\Arma 3 Server\curator\addons\ui_f_curator.pbo - 82411
+11:28:27 addons\a3.pbo - unknown
+11:28:27 addons\air_f.pbo - 82564
+11:28:27 addons\air_f_beta.pbo - 82564
+11:28:27 addons\air_f_epb.pbo - 82564
+11:28:27 addons\air_f_epc.pbo - 82564
+11:28:27 addons\air_f_gamma.pbo - 82564
+11:28:27 addons\animals_f.pbo - 79398
+11:28:27 addons\animals_f_beta.pbo - 72362
+11:28:27 addons\anims_f.pbo - 82686
+11:28:27 addons\anims_f_bootcamp.pbo - 72362
+11:28:27 addons\anims_f_data.pbo - 82213
+11:28:27 addons\anims_f_epa.pbo - 78608
+11:28:27 addons\anims_f_epc.pbo - 72362
+11:28:27 addons\armor_f.pbo - 82564
+11:28:27 addons\armor_f_beta.pbo - 82564
+11:28:27 addons\armor_f_epb.pbo - 82564
+11:28:27 addons\armor_f_epc.pbo - 82564
+11:28:27 addons\armor_f_gamma.pbo - 82564
+11:28:27 addons\baseconfig_f.pbo - 73106
+11:28:27 addons\boat_f.pbo - 82564
+11:28:27 addons\boat_f_beta.pbo - 82564
+11:28:27 addons\boat_f_epc.pbo - 82564
+11:28:27 addons\boat_f_gamma.pbo - 82564
+11:28:27 addons\cargoposes_f.pbo - 82622
+11:28:27 addons\characters_f.pbo - 82621
+11:28:27 addons\characters_f_beta.pbo - 82486
+11:28:27 addons\characters_f_bootcamp.pbo - 82576
+11:28:27 addons\characters_f_epa.pbo - 81235
+11:28:27 addons\characters_f_epb.pbo - 79398
+11:28:27 addons\characters_f_epc.pbo - 81235
+11:28:27 addons\characters_f_gamma.pbo - 79398
+11:28:27 addons\data_f.pbo - 82582
+11:28:27 addons\data_f_bootcamp.pbo - 76960
+11:28:27 addons\drones_f.pbo - 82689
+11:28:27 addons\dubbing_f.pbo - 73106
+11:28:27 addons\dubbing_f_beta.pbo - 73106
+11:28:27 addons\dubbing_f_bootcamp.pbo - 73106
+11:28:27 addons\dubbing_f_epa.pbo - 73106
+11:28:27 addons\dubbing_f_epb.pbo - 76110
+11:28:27 addons\dubbing_f_epc.pbo - 73106
+11:28:27 addons\dubbing_f_gamma.pbo - 73106
+11:28:27 addons\dubbing_radio_f.pbo - 78704
+11:28:27 addons\dubbing_radio_f_data.pbo - 78762
+11:28:27 addons\editor_f.pbo - 82563
+11:28:27 addons\functions_f.pbo - 82609
+11:28:27 addons\functions_f_bootcamp.pbo - 82310
+11:28:27 addons\functions_f_epa.pbo - 73434
+11:28:27 addons\functions_f_epc.pbo - 73106
+11:28:27 addons\languagemissions_f.pbo - 82715
+11:28:27 addons\languagemissions_f_beta.pbo - 82715
+11:28:27 addons\languagemissions_f_bootcamp.pbo - 82715
+11:28:27 addons\languagemissions_f_epa.pbo - 82715
+11:28:27 addons\languagemissions_f_epb.pbo - 82715
+11:28:27 addons\languagemissions_f_epc.pbo - 82715
+11:28:27 addons\languagemissions_f_gamma.pbo - 82303
+11:28:27 addons\language_f.pbo - 82714
+11:28:27 addons\language_f_beta.pbo - 82714
+11:28:27 addons\language_f_bootcamp.pbo - 82715
+11:28:27 addons\language_f_epa.pbo - 82715
+11:28:27 addons\language_f_epb.pbo - 82715
+11:28:27 addons\language_f_epc.pbo - 82715
+11:28:27 addons\language_f_gamma.pbo - 82715
+11:28:27 addons\map_altis.pbo - 82219
+11:28:27 addons\map_altis_data.pbo - 80737
+11:28:27 addons\map_altis_data_layers.pbo - 79087
+11:28:27 addons\map_altis_data_layers_00_00.pbo - 79087
+11:28:27 addons\map_altis_data_layers_00_01.pbo - 79087
+11:28:27 addons\map_altis_data_layers_01_00.pbo - 79087
+11:28:27 addons\map_altis_data_layers_01_01.pbo - 79087
+11:28:27 addons\map_altis_scenes_f.pbo - 73106
+11:28:27 addons\map_data.pbo - 81846
+11:28:27 addons\map_stratis.pbo - 82221
+11:28:27 addons\map_stratis_data.pbo - 80737
+11:28:27 addons\map_stratis_data_layers.pbo - 79082
+11:28:27 addons\map_stratis_scenes_f.pbo - 73106
+11:28:27 addons\map_vr.pbo - 82252
+11:28:27 addons\map_vr_scenes_f.pbo - 82252
+11:28:27 addons\misc_f.pbo - 79398
+11:28:27 addons\missions_f.pbo - 78843
+11:28:27 addons\missions_f_beta.pbo - 82476
+11:28:27 addons\missions_f_beta_data.pbo - 82479
+11:28:27 addons\missions_f_beta_video.pbo - 73106
+11:28:27 addons\missions_f_bootcamp.pbo - 82134
+11:28:27 addons\missions_f_bootcamp_data.pbo - 72362
+11:28:27 addons\missions_f_bootcamp_video.pbo - 75065
+11:28:27 addons\missions_f_data.pbo - 73106
+11:28:27 addons\missions_f_epa.pbo - 82617
+11:28:27 addons\missions_f_epa_data.pbo - 73106
+11:28:27 addons\missions_f_epa_video.pbo - 73106
+11:28:27 addons\missions_f_epb.pbo - 80344
+11:28:27 addons\missions_f_epb_data.pbo - 73106
+11:28:27 addons\missions_f_epb_video.pbo - 73106
+11:28:27 addons\missions_f_epc.pbo - 82261
+11:28:27 addons\missions_f_epc_data.pbo - 73106
+11:28:27 addons\missions_f_epc_video.pbo - 73106
+11:28:27 addons\missions_f_gamma.pbo - 82622
+11:28:27 addons\missions_f_gamma_data.pbo - 76877
+11:28:27 addons\missions_f_gamma_video.pbo - 73106
+11:28:27 addons\missions_f_video.pbo - 73106
+11:28:27 addons\modules_f.pbo - 82593
+11:28:27 addons\modules_f_beta.pbo - 81823
+11:28:27 addons\modules_f_beta_data.pbo - 80976
+11:28:27 addons\modules_f_bootcamp.pbo - 79398
+11:28:27 addons\modules_f_data.pbo - 73106
+11:28:27 addons\modules_f_epb.pbo - 79398
+11:28:27 addons\music_f.pbo - 73106
+11:28:27 addons\music_f_bootcamp.pbo - 73106
+11:28:27 addons\music_f_bootcamp_music.pbo - 73106
+11:28:27 addons\music_f_epa.pbo - 73106
+11:28:27 addons\music_f_epa_music.pbo - 73106
+11:28:27 addons\music_f_epb.pbo - 73106
+11:28:27 addons\music_f_epb_music.pbo - 73106
+11:28:27 addons\music_f_epc.pbo - 73106
+11:28:27 addons\music_f_epc_music.pbo - 73106
+11:28:27 addons\music_f_music.pbo - 73106
+11:28:27 addons\plants_f.pbo - 80365
+11:28:27 addons\roads_f.pbo - 82537
+11:28:27 addons\rocks_f.pbo - 80359
+11:28:27 addons\signs_f.pbo - 82616
+11:28:27 addons\soft_f.pbo - 82564
+11:28:27 addons\soft_f_beta.pbo - 82657
+11:28:27 addons\soft_f_bootcamp.pbo - 82564
+11:28:27 addons\soft_f_epc.pbo - 82564
+11:28:27 addons\soft_f_gamma.pbo - 82657
+11:28:27 addons\sounds_f.pbo - 82574
+11:28:27 addons\sounds_f_bootcamp.pbo - 82576
+11:28:27 addons\sounds_f_epb.pbo - 79398
+11:28:27 addons\sounds_f_epc.pbo - 79398
+11:28:27 addons\sounds_f_vehicles.pbo - 82151
+11:28:27 addons\sounds_f_weapons.pbo - 82110
+11:28:27 addons\static_f.pbo - 82523
+11:28:27 addons\static_f_beta.pbo - 79398
+11:28:27 addons\static_f_gamma.pbo - 82090
+11:28:27 addons\structures_f.pbo - 82614
+11:28:27 addons\structures_f_bootcamp.pbo - 82615
+11:28:27 addons\structures_f_data.pbo - 82554
+11:28:27 addons\structures_f_epa.pbo - 82615
+11:28:27 addons\structures_f_epb.pbo - 82615
+11:28:27 addons\structures_f_epc.pbo - 82615
+11:28:27 addons\structures_f_households.pbo - 82554
+11:28:27 addons\structures_f_ind.pbo - 82615
+11:28:27 addons\structures_f_mil.pbo - 82556
+11:28:27 addons\structures_f_wrecks.pbo - 82558
+11:28:27 addons\uifonts_f.pbo - 73106
+11:28:27 addons\uifonts_f_data.pbo - 73106
+11:28:27 addons\ui_f.pbo - 82652
+11:28:27 addons\ui_f_bootcamp.pbo - 76325
+11:28:27 addons\ui_f_data.pbo - 82650
+11:28:27 addons\weapons_f.pbo - 82549
+11:28:27 addons\weapons_f_beta.pbo - 81905
+11:28:27 addons\weapons_f_bootcamp.pbo - 81923
+11:28:27 addons\weapons_f_epa.pbo - 81310
+11:28:27 addons\weapons_f_epb.pbo - 80958
+11:28:27 addons\weapons_f_epc.pbo - 80374
+11:28:27 addons\weapons_f_gamma.pbo - 80772
+11:28:27 
+11:28:27 =======================
+11:28:27 
+11:28:27 ============================================================================================= List of mods ===============================================================================================
+11:28:27 modsReadOnly = true
+11:28:27 safeModsActivated = false
+11:28:27 customMods = true
+11:28:27 hash = '897859DE489C02F4CFCEDAD602E32416EDEAC241'
+11:28:27 hashShort = '5acabdb7'
+11:28:27                                               name |               modDir |    default |               origin |                                     hash | hashShort | fullPath
+11:28:27 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+11:28:27                                        @ZEVMission |          @ZEVMission |      false |             GAME DIR | da39a3ee5e6b4b0d3255bfef95601890afd80709 |  11fdd19c | F:\Arma3server\Arma 3 Server\@ZEVMission
+11:28:27                                               @sem |                 @sem |      false |             GAME DIR |                                          |           | F:\Arma3server\Arma 3 Server\@sem
+11:28:27                                      M3Editor 0.18 |            @m3editor |      false |             GAME DIR | fb333f3cbc75950eff2d3ad6685b0642b0b24cef |  9529ecf2 | F:\Arma3server\Arma 3 Server\@m3editor
+11:28:27                                         @epochhive |           @epochhive |      false |             GAME DIR | ce1cf0bb278673586fe126bd8cc2ad39adc6a3f0 |  e788c9a7 | F:\Arma3server\Arma 3 Server\@epochhive
+11:28:27                                  Epoch Mod 0.3.0.3 |               @epoch |      false |             GAME DIR | d0f0fb4075b466f3d9d2e08ab6aae5b517e9f690 |  56613dca | F:\Arma3server\Arma 3 Server\@epoch
+11:28:27                                  Arma 3 DLC Bundle |            dlcbundle |       true |            NOT FOUND |                                          |           | 
+11:28:27                                    Arma 3 Marksmen |                 mark |       true |             GAME DIR | 8f0ebc67e604b05460419ba6bbb9814a2da1d2bf |  a162e35d | F:\Arma3server\Arma 3 Server\mark
+11:28:27                                 Arma 3 Helicopters |                 heli |       true |             GAME DIR | 4cb627dce6a8ddd8610ca20a8ff506aa42bb8bb0 |  74bdb4bc | F:\Arma3server\Arma 3 Server\heli
+11:28:27                                       Arma 3 Karts |                 kart |       true |             GAME DIR | 9980a36a8060f77b0d09734f03c9ab8e113c9a7d |  eaf7ba8a | F:\Arma3server\Arma 3 Server\kart
+11:28:27                                        Arma 3 Zeus |              curator |       true |             GAME DIR | f4c79440b601bc3e4b1dfea8fcb600ef43bf56d2 |  d39ab57c | F:\Arma3server\Arma 3 Server\curator
+11:28:27                                             Arma 3 |                   A3 |       true |            NOT FOUND |                                          |           | 
+11:28:27 ==========================================================================================================================================================================================================
+11:28:27 InitSound ...
+11:28:27 InitSound - complete
+11:28:27 PhysX3 SDK Init started ...
+11:28:27 PhysX3 SDK Init ended.
+11:28:27 EPE manager release (0|0|0)
+11:28:27 EPE manager release (0|0|0)
+11:28:28 Attempt to override final function - rscminimap_script
+11:28:28 Attempt to override final function - rscdisplayloading_script
+11:28:28 Attempt to override final function - rscdisplayloading_script
+11:28:28 Attempt to override final function - rscdisplayloading_script
+11:28:28 Attempt to override final function - rscdiary_script
+11:28:28 Attempt to override final function - rscdisplaysinglemission_script
+11:28:28 Attempt to override final function - rscdiary_script
+11:28:28 Attempt to override final function - rscdisplayremotemissions_script
+11:28:28 Attempt to override final function - rscdisplayloading_script
+11:28:28 Attempt to override final function - rscdiary_script
+11:28:28 Attempt to override final function - rscdiary_script
+11:28:28 Attempt to override final function - rscdisplaystrategicmap_script
+11:28:28 Attempt to override final function - rscdisplaycommon_script
+11:28:29 Attempt to override final function - rscdisplayloading_script
+11:28:29 Attempt to override final function - rscdisplaycurator_script
+11:28:29 Attempt to override final function - rscdisplayattributes_script
+11:28:29 Attempt to override final function - rscdisplayattributes_script
+11:28:29 Attempt to override final function - rscdisplayattributes_script
+11:28:29 Attempt to override final function - rscdisplaywelcome_script
+11:28:29 Attempt to override final function - rscdisplaywelcome_script
+11:28:29 Attempt to override final function - rscdisplaywelcome_script
+11:28:29 Attempt to override final function - rscdisplaycommon_script
+11:28:29 Attempt to override final function - rscdisplaydebriefing_script
+11:28:29 Attempt to override final function - rscunitinfo_script
+11:28:29 Attempt to override final function - rscunitinfo_script
+11:28:29 Attempt to override final function - rscunitinfo_script
+11:28:29 Attempt to override final function - rscunitinfo_script
+11:28:29 Attempt to override final function - rscunitinfo_script
+11:28:29 Attempt to override final function - rscunitinfo_script
+11:28:29 Attempt to override final function - rscunitinfo_script
+11:28:29 Attempt to override final function - rscunitinfo_script
+11:28:29 Attempt to override final function - rscunitinfo_script
+11:28:29 Attempt to override final function - rscunitinfo_script
+11:28:29 Attempt to override final function - rscunitinfo_script
+11:28:29 Attempt to override final function - rscunitinfo_script
+11:28:29 Attempt to override final function - rscunitinfo_script
+11:28:29 Attempt to override final function - rscunitinfo_script
+11:28:29 Attempt to override final function - rscunitinfo_script
+11:28:29 Attempt to override final function - rscunitinfo_script
+11:28:29 Attempt to override final function - rscunitinfo_script
+11:28:29 Attempt to override final function - rscunitinfo_script
+11:28:29 Attempt to override final function - rscunitinfo_script
+11:28:29 Attempt to override final function - rscunitinfo_script
+11:28:29 Attempt to override final function - rscunitinfo_script
+11:28:29 Attempt to override final function - rscunitinfo_script
+11:28:29 Attempt to override final function - rscunitinfo_script
+11:28:29 Attempt to override final function - rscunitinfo_script
+11:28:29 Attempt to override final function - rscunitinfo_script
+11:28:29 Attempt to override final function - rscunitinfo_script
+11:28:29 Attempt to override final function - rscunitinfo_script
+11:28:29 Attempt to override final function - rscunitinfo_script
+11:28:29 Attempt to override final function - rscunitinfo_script
+11:28:29 Attempt to override final function - rscunitinfo_script
+11:28:29 Attempt to override final function - rscunitinfo_script
+11:28:29 Attempt to override final function - rscunitinfo_script
+11:28:29 Attempt to override final function - rscunitinfo_script
+11:28:29 Attempt to override final function - rscunitinfo_script
+11:28:29 Attempt to override final function - rscunitinfo_script
+11:28:29 Attempt to override final function - rscunitinfo_script
+11:28:29 Attempt to override final function - rscunitinfo_script
+11:28:29 Attempt to override final function - rscunitinfo_script
+11:28:29 Attempt to override final function - rscunitinfo_script
+11:28:29 Attempt to override final function - rscunitinfo_script
+11:28:29 Attempt to override final function - rscunitinfo_script
+11:28:29 Attempt to override final function - rscunitinfo_script
+11:28:29 Attempt to override final function - rscunitinfo_script
+11:28:29 Attempt to override final function - rscunitinfo_script
+11:28:29 Attempt to override final function - rscunitinfo_script
+11:28:29 Attempt to override final function - rscunitinfo_script
+11:28:29 Attempt to override final function - rscunitinfo_script
+11:28:29 Attempt to override final function - rscunitinfo_script
+11:28:29 Attempt to override final function - rscunitinfo_script
+11:28:29 Attempt to override final function - rscunitinfo_script
+11:28:29 Attempt to override final function - rscunitinfo_script
+11:28:29 Attempt to override final function - rscunitinfo_script
+11:28:29 Attempt to override final function - rscunitinfo_script
+11:28:29 Attempt to override final function - bis_fnc_init
+11:28:29 EPE manager release (0|0|0)
+11:28:29 EPE manager release (0|0|0)
+Initializing Steam server - Game Port: 2302, Steam Query Port: 2303
+Connected to Steam servers
+EPE manager release (0|0|0)
+EPE manager release (0|0|0)
+EPE manager release (0|0|0)
+EPE manager release (0|0|0)
+Server error: Player without identity AorrowG (id 1268270993)
+Server error: Player without identity AorrowG (id 1268270993)
+Server error: Player without identity AorrowG (id 1268270993)
+Server error: Player without identity AorrowG (id 1268270993)
+Server error: Player without identity AorrowG (id 1268270993)
+Server error: Player without identity AorrowG (id 1268270993)
+Server error: Player without identity AorrowG (id 1268270993)
+Server error: Player without identity AorrowG (id 1268270993)
+Server error: Player without identity AorrowG (id 1268270993)
+Server error: Player without identity AorrowG (id 1268270993)
+Server error: Player without identity AorrowG (id 1268270993)
+Server error: Player without identity AorrowG (id 1268270993)
+Server error: Player without identity AorrowG (id 1268270993)
+Server error: Player without identity AorrowG (id 1268270993)
+Server error: Player without identity AorrowG (id 1268270993)
+Server error: Player without identity AorrowG (id 1268270993)
+Server error: Player without identity AorrowG (id 1268270993)
+Server error: Player without identity AorrowG (id 1268270993)
+Server error: Player without identity AorrowG (id 1268270993)
+Server error: Player without identity AorrowG (id 1268270993)
+Server error: Player without identity AorrowG (id 1268270993)
+Starting mission:
+ Mission file: epoch (__cur_mp)
+ Mission world: Altis
+ Mission directory: mpmissions\__cur_mp.Altis\
+EPE manager release (0|0|0)
+EPE manager release (0|0|0)
+Strange convex component08 in a3\structures_f_epb\civ\garbage\garbagecontainer_closed_f.p3d:geometryView
+Strange convex component10 in a3\structures_f_epb\civ\garbage\garbagecontainer_closed_f.p3d:geometryView
+Strange convex component145 in a3\plants_f\tree\t_pinuss2s_b_f.p3d:geometryView
+Strange convex component149 in a3\plants_f\tree\t_pinuss2s_b_f.p3d:geometryView
+Strange convex component01 in a3\structures_f_epc\civ\accessories\beachbooth_01_f.p3d:geometryView
+Strange convex component02 in a3\structures_f_epc\civ\accessories\beachbooth_01_f.p3d:geometryView
+Strange convex component03 in a3\structures_f_epc\civ\accessories\beachbooth_01_f.p3d:geometryView
+Strange convex component04 in a3\structures_f_epc\civ\accessories\beachbooth_01_f.p3d:geometryView
+EPE manager release (0|0|0)
+EPE manager release (0|0|0)
+Attempt to override final function - bis_functions_list
+Attempt to override final function - bis_functions_listpreinit
+Attempt to override final function - bis_functions_listpostinit
+Attempt to override final function - bis_functions_listrecompile
+Attempt to override final function - bis_fnc_missiontaskslocal
+Attempt to override final function - bis_fnc_missionconversationslocal
+Attempt to override final function - bis_fnc_missionflow
+"Epoch: Init Compiles"
+"[A3EAI] Initializing A3EAI version 0.5.8 Alpha using base path a3eai."
+"[A3EAI] Reading A3EAI configuration file."
+"[A3EAI] A3EAI configuration file loaded."
+"[A3EAI] Verified all A3EAI settings in 0.0019989 seconds."
+"[A3EAI] Compiling A3EAI functions."
+"[A3EAI] A3EAI functions compiled."
+"[A3EAI] A3EAI settings: Debug Level: 0. DebugMarkers: false. WorldName: altis. VerifyClassnames: true. VerifySettings: true."
+"[A3EAI] AI spawn settings: Static: true. Dynamic: true. Random: true. Air: true. Land: true."
+"[A3EAI] A3EAI loading completed in 0.048996 seconds."
+Warning: rightHandIKCurve, wrong size (size<2||size>=4) in \x\addons\a3_epoch_weapons\data\handanims\sr25_reload.rtm
+Warning: rightHandIKCurve, wrong size (size<2||size>=4) in \x\addons\a3_epoch_weapons\data\handanims\sr25_reload_prone.rtm
+Warning: rightHandIKCurve, wrong size (size<2||size>=4) in \x\addons\a3_epoch_weapons\data\handanims\L85A2_Reload_anim.rtm
+Warning: rightHandIKCurve, wrong size (size<2||size>=4) in \x\addons\a3_epoch_weapons\data\handanims\L85A2_RIS_Reload_anim_prone.rtm
+Warning: rightHandIKCurve, wrong size (size<2||size>=4) in \x\addons\a3_epoch_weapons\data\handanims\L85A2_RIS_Reload_anim_prone.rtm
+Warning: rightHandIKCurve, wrong size (size<2||size>=4) in \x\addons\a3_epoch_weapons\data\handanims\L85A2_RIS_Reload_anim.rtm
+Warning: rightHandIKCurve, wrong size (size<2||size>=4) in \x\addons\a3_epoch_weapons\data\handanims\L85A2_RIS_Reload_anim_prone.rtm
+Warning: rightHandIKCurve, wrong size (size<2||size>=4) in \x\addons\a3_epoch_weapons\data\handanims\L85A2_UGL_Reload_anim.rtm
+Animation a3\cargoposes_f_exp\anim\pilot_cessna_kia.rtm not found or empty
+Animation a3\cargoposes_f_exp\anim\pilot_cessna.rtm not found or empty
+Animation a3\cargoposes_f_exp\anim\pilot_cessna_enter.rtm not found or empty
+Animation a3\cargoposes_f_exp\anim\pilot_cessna_exit.rtm not found or empty
+Animation a3\cargoposes_f_exp\anim\copilot_cessna_kia.rtm not found or empty
+Animation a3\cargoposes_f_exp\anim\copilot_cessna.rtm not found or empty
+Animation a3\cargoposes_f_exp\anim\copilot_cessna_enter.rtm not found or empty
+Animation a3\cargoposes_f_exp\anim\copilot_cessna_exit.rtm not found or empty
+Animation a3\cargoposes_f_exp\anim\passenger_cessna_l_kia.rtm not found or empty
+Animation a3\cargoposes_f_exp\anim\passenger_cessna_l.rtm not found or empty
+Animation a3\cargoposes_f_exp\anim\passenger_cessna_r_kia.rtm not found or empty
+Animation a3\cargoposes_f_exp\anim\passenger_cessna_r.rtm not found or empty
+c:\w\stable\futura\lib\network\networkserver.cpp NetworkServer::OnClientStateChanged:NOT IMPLEMENTED - briefing!
+"[KillFeed]: Server loading killfeed function"
+"[HSBlackmarket] Server: loading 'HALV_takegive_crypto.sqf'"
+"[HSBlackmarket] Server: loading 'HALV_takegive' PVEvent"
+"[HSBlackmarket] Server adding PVEvent"
+"[HSBlackmarket] Server Loading functions"
+"[HSBlackmarket] Server Building traders ..."
+"[HSBlackmarket]: Selecting blacklisted areas for world: Altis"
+"[HSBlackmarket]: Reverted _mindist '1785.71' to avoid problems"
+"[HSBlackmarket]: Found position for a HSBlackmarket ... (109144) [10986.6,14447.5]"
+No speaker given for Biton Malas
+"[HSBlackmarket]: HSBlackmarket Creating a Marker"
+"[HSBlackmarket]: Found position for a HSBlackmarket ... (156201) [15647.5,20117.2]"
+No speaker given for Orestis Strambopoulos
+"[HSBlackmarket]: HSBlackmarket Creating a Marker"
+"[HSBlackmarket]: Found position for a HSBlackmarket ... (106074) [10656.9,7488.81]"
+No speaker given for Sotiris Gikas
+"[HSBlackmarket]: HSBlackmarket Creating a Marker"
+"[HSBlackmarket]: Found position for a HSBlackmarket ... (070128) [7001.79,12849.8]"
+No speaker given for Fotini Nicolau
+"[HSBlackmarket]: HSBlackmarket Creating a Marker"
+"[HSBlackmarket]: Found position for a HSBlackmarket ... (228206) [22879,20621.9]"
+No speaker given for Gerasimos Lagos
+"[HSBlackmarket]: HSBlackmarket Creating a Marker"
+Strange convex component53 in a3\structures_f_epb\civ\playground\slidecastle_f.p3d:geometryFire
+Strange convex component27 in a3\structures_f_epb\civ\playground\slidecastle_f.p3d:geometryView
+"[HSBlackmarket]: Found position for a HSBlackmarket ... (196079) [19675.2,7987.65]"
+No speaker given for Rosi Stanis
+"[HSBlackmarket]: HSBlackmarket Creating a Marker"
+"[HSBlackmarket]: HSBlackmarket Creating a Static trader @ (184142) [18459.1,14259.2,0.00141716]"
+No speaker given for Nicolo Lias
+"[HSBlackmarket]: HSBlackmarket Creating a Marker"
+"[HSBlackmarket]: HSBlackmarket Creating a Static trader @ (133145) [13319,14523.9,0.00134587]"
+No speaker given for Stefanos Petridis
+"[HSBlackmarket]: HSBlackmarket Creating a Marker"
+"[HSBlackmarket]: HSBlackmarket Creating a Static trader @ (061168) [6193.02,16828.7,0.00118256]"
+No speaker given for Dimitirou Dimitriadis
+"[HSBlackmarket]: HSBlackmarket Creating a Marker"
+"[HSBlackmarket] Server Done ..."
+"Epoch: Starting ArmA3 Epoch Server, Version 0.3.0.3"
+Unable to get file version size: F:\Arma3server\Arma 3 Server\@epochhive\epochserver.dll
+"Epoch: Init Variables"
+"Loading config..."
+Bad conversion: bool
+Bad conversion: bool
+Bad conversion: bool
+Bad conversion: bool
+Bad conversion: bool
+Bad conversion: bool
+Bad conversion: bool
+Bad conversion: bool
+Bad conversion: bool
+Bad conversion: bool
+Bad conversion: bool
+Bad conversion: bool
+Bad conversion: bool
+Bad conversion: bool
+Bad conversion: bool
+Bad conversion: bool
+Bad conversion: bool
+Bad conversion: bool
+Bad conversion: bool
+Bad conversion: bool
+Bad conversion: bool
+Bad conversion: bool
+Bad conversion: bool
+Bad conversion: bool
+Bad conversion: bool
+Bad conversion: bool
+Bad conversion: bool
+Bad conversion: bool
+Bad conversion: bool
+Bad conversion: bool
+Bad conversion: bool
+Bad conversion: bool
+Bad conversion: bool
+Bad conversion: bool
+Bad conversion: bool
+Bad conversion: bool
+Bad conversion: bool
+Bad conversion: bool
+Bad conversion: bool
+Bad conversion: bool
+Bad conversion: bool
+Bad conversion: bool
+Bad conversion: bool
+Bad conversion: bool
+Bad conversion: bool
+Bad conversion: bool
+Bad conversion: bool
+Bad conversion: bool
+Bad conversion: bool
+Bad conversion: bool
+Bad conversion: bool
+Bad conversion: bool
+Bad conversion: bool
+Bad conversion: bool
+Bad conversion: bool
+Bad conversion: bool
+Bad conversion: bool
+Bad conversion: bool
+Bad conversion: bool
+Bad conversion: bool
+Bad conversion: bool
+Bad conversion: bool
+Bad conversion: bool
+Bad conversion: bool
+Bad conversion: bool
+Bad conversion: bool
+Bad conversion: bool
+Bad conversion: bool
+Bad conversion: bool
+Bad conversion: bool
+Bad conversion: bool
+Bad conversion: bool
+Bad conversion: bool
+Bad conversion: bool
+Bad conversion: bool
+Bad conversion: bool
+Bad conversion: bool
+Bad conversion: bool
+Bad conversion: bool
+Bad conversion: bool
+Bad conversion: bool
+Bad conversion: bool
+Bad conversion: bool
+Bad conversion: bool
+Bad conversion: bool
+Bad conversion: bool
+Bad conversion: bool
+Bad conversion: bool
+Bad conversion: bool
+Bad conversion: bool
+Bad conversion: bool
+Bad conversion: bool
+Bad conversion: bool
+Bad conversion: bool
+Bad conversion: bool
+Bad conversion: bool
+Bad conversion: bool
+Bad conversion: bool
+Bad conversion: bool
+Bad conversion: bool
+Bad conversion: bool
+Bad conversion: bool
+Bad conversion: bool
+Bad conversion: bool
+Bad conversion: bool
+Bad conversion: bool
+Bad conversion: bool
+Bad conversion: bool
+Bad conversion: bool
+Bad conversion: bool
+Bad conversion: bool
+Bad conversion: bool
+Bad conversion: bool
+Bad conversion: bool
+Bad conversion: bool
+Bad conversion: bool
+Bad conversion: bool
+Bad conversion: bool
+Bad conversion: bool
+Bad conversion: bool
+Bad conversion: bool
+Bad conversion: bool
+Bad conversion: bool
+Bad conversion: bool
+Bad conversion: bool
+Bad conversion: bool
+Bad conversion: bool
+Bad conversion: bool
+Bad conversion: bool
+Bad conversion: bool
+Bad conversion: bool
+Bad conversion: bool
+Bad conversion: bool
+Bad conversion: bool
+Bad conversion: bool
+Bad conversion: bool
+Bad conversion: bool
+Bad conversion: bool
+Bad conversion: bool
+Bad conversion: bool
+Bad conversion: bool
+Bad conversion: bool
+Bad conversion: bool
+Bad conversion: bool
+Bad conversion: bool
+Bad conversion: bool
+Bad conversion: bool
+Bad conversion: bool
+Bad conversion: bool
+Bad conversion: bool
+Bad conversion: bool
+Bad conversion: bool
+Bad conversion: bool
+Bad conversion: bool
+Bad conversion: bool
+Bad conversion: bool
+Bad conversion: bool
+Bad conversion: bool
+Bad conversion: bool
+Bad conversion: bool
+Bad conversion: bool
+Bad conversion: bool
+Bad conversion: bool
+Bad conversion: bool
+Bad conversion: bool
+Bad conversion: bool
+Bad conversion: bool
+Bad conversion: bool
+Bad conversion: bool
+Bad conversion: bool
+Bad conversion: bool
+Bad conversion: bool
+Bad conversion: bool
+Bad conversion: bool
+Bad conversion: bool
+Bad conversion: bool
+Bad conversion: bool
+Bad conversion: bool
+Bad conversion: bool
+Bad conversion: bool
+Bad conversion: bool
+Bad conversion: bool
+Bad conversion: bool
+Bad conversion: bool
+Bad conversion: bool
+Bad conversion: bool
+Bad conversion: bool
+Bad conversion: bool
+Bad conversion: bool
+Bad conversion: bool
+Bad conversion: bool
+Bad conversion: bool
+Bad conversion: bool
+Bad conversion: bool
+Bad conversion: bool
+Bad conversion: bool
+Bad conversion: bool
+Bad conversion: bool
+Bad conversion: bool
+Bad conversion: bool
+Bad conversion: bool
+Bad conversion: bool
+Bad conversion: bool
+Bad conversion: bool
+Bad conversion: bool
+Bad conversion: bool
+Bad conversion: bool
+Bad conversion: bool
+Bad conversion: bool
+Bad conversion: bool
+Bad conversion: bool
+Bad conversion: bool
+Bad conversion: bool
+Bad conversion: bool
+Bad conversion: bool
+Bad conversion: bool
+Bad conversion: bool
+Bad conversion: bool
+Bad conversion: bool
+Bad conversion: bool
+Bad conversion: bool
+Bad conversion: bool
+Bad conversion: bool
+Bad conversion: bool
+Bad conversion: bool
+Bad conversion: bool
+Bad conversion: bool
+Bad conversion: bool
+Bad conversion: bool
+Bad conversion: bool
+Bad conversion: bool
+Bad conversion: bool
+Bad conversion: bool
+Bad conversion: bool
+Bad conversion: bool
+Bad conversion: bool
+Bad conversion: bool
+Bad conversion: bool
+Bad conversion: bool
+Bad conversion: bool
+Bad conversion: bool
+Bad conversion: bool
+Bad conversion: bool
+Bad conversion: bool
+Bad conversion: bool
+Bad conversion: bool
+Bad conversion: bool
+Bad conversion: bool
+Bad conversion: bool
+Bad conversion: bool
+Bad conversion: bool
+Bad conversion: bool
+Bad conversion: bool
+Bad conversion: bool
+Bad conversion: bool
+Bad conversion: bool
+Bad conversion: bool
+Bad conversion: bool
+Bad conversion: bool
+Bad conversion: bool
+Bad conversion: bool
+Bad conversion: bool
+Bad conversion: bool
+Bad conversion: bool
+Bad conversion: bool
+Bad conversion: bool
+Bad conversion: bool
+Bad conversion: bool
+Bad conversion: bool
+Bad conversion: bool
+Bad conversion: bool
+Bad conversion: bool
+Bad conversion: bool
+Bad conversion: bool
+Bad conversion: bool
+Bad conversion: bool
+Bad conversion: bool
+Bad conversion: bool
+Bad conversion: bool
+Bad conversion: bool
+Bad conversion: bool
+Bad conversion: bool
+Bad conversion: bool
+Bad conversion: bool
+Bad conversion: bool
+Bad conversion: bool
+Bad conversion: bool
+Bad conversion: bool
+Bad conversion: bool
+Bad conversion: bool
+Bad conversion: bool
+Bad conversion: bool
+Bad conversion: bool
+Bad conversion: bool
+Bad conversion: bool
+Bad conversion: bool
+Bad conversion: bool
+Bad conversion: bool
+Bad conversion: bool
+Bad conversion: bool
+Bad conversion: bool
+Bad conversion: bool
+Bad conversion: bool
+Bad conversion: bool
+Bad conversion: bool
+Bad conversion: bool
+Bad conversion: bool
+Bad conversion: bool
+Bad conversion: bool
+Bad conversion: bool
+Bad conversion: bool
+Bad conversion: bool
+Bad conversion: bool
+Bad conversion: bool
+Bad conversion: bool
+Bad conversion: bool
+Bad conversion: bool
+Bad conversion: bool
+Bad conversion: bool
+Bad conversion: bool
+Bad conversion: bool
+Bad conversion: bool
+Bad conversion: bool
+Bad conversion: bool
+Bad conversion: bool
+Bad conversion: bool
+Bad conversion: bool
+Bad conversion: bool
+Bad conversion: bool
+Bad conversion: bool
+Bad conversion: bool
+Bad conversion: bool
+Bad conversion: bool
+Bad conversion: bool
+Bad conversion: bool
+Bad conversion: bool
+Bad conversion: bool
+Bad conversion: bool
+Bad conversion: bool
+Bad conversion: bool
+Bad conversion: bool
+Bad conversion: bool
+Bad conversion: bool
+Bad conversion: bool
+Bad conversion: bool
+Bad conversion: bool
+Bad conversion: bool
+Bad conversion: bool
+Bad conversion: bool
+Bad conversion: bool
+Bad conversion: bool
+Bad conversion: bool
+Bad conversion: bool
+Bad conversion: bool
+Bad conversion: bool
+Bad conversion: bool
+Bad conversion: bool
+Bad conversion: bool
+Bad conversion: bool
+Bad conversion: bool
+Bad conversion: bool
+Bad conversion: bool
+Bad conversion: bool
+Bad conversion: bool
+Bad conversion: bool
+Bad conversion: bool
+Bad conversion: bool
+Bad conversion: bool
+Bad conversion: bool
+Bad conversion: bool
+Bad conversion: bool
+Bad conversion: bool
+Bad conversion: bool
+Bad conversion: bool
+Bad conversion: bool
+Bad conversion: bool
+Bad conversion: bool
+Bad conversion: bool
+Bad conversion: bool
+Bad conversion: bool
+Bad conversion: bool
+Bad conversion: bool
+Bad conversion: bool
+Bad conversion: bool
+Bad conversion: bool
+Bad conversion: bool
+Bad conversion: bool
+Bad conversion: bool
+Bad conversion: bool
+Bad conversion: bool
+Bad conversion: bool
+Bad conversion: bool
+Bad conversion: bool
+Bad conversion: bool
+Bad conversion: bool
+Bad conversion: bool
+Bad conversion: bool
+Bad conversion: bool
+Bad conversion: bool
+Bad conversion: bool
+Bad conversion: bool
+Bad conversion: bool
+Bad conversion: bool
+Bad conversion: bool
+Bad conversion: bool
+Bad conversion: bool
+Bad conversion: bool
+Bad conversion: bool
+Bad conversion: bool
+Bad conversion: bool
+Bad conversion: bool
+Bad conversion: bool
+Bad conversion: bool
+Bad conversion: bool
+Bad conversion: bool
+Bad conversion: bool
+Bad conversion: bool
+Bad conversion: bool
+Bad conversion: bool
+Bad conversion: bool
+Bad conversion: bool
+Bad conversion: bool
+Bad conversion: bool
+Bad conversion: bool
+Bad conversion: bool
+Bad conversion: bool
+Bad conversion: bool
+Bad conversion: bool
+Bad conversion: bool
+Bad conversion: bool
+Bad conversion: bool
+Bad conversion: bool
+Bad conversion: bool
+Bad conversion: bool
+Bad conversion: bool
+Bad conversion: bool
+Bad conversion: bool
+Bad conversion: bool
+Bad conversion: bool
+Bad conversion: bool
+Bad conversion: bool
+Bad conversion: bool
+Bad conversion: bool
+Bad conversion: bool
+Bad conversion: bool
+Bad conversion: bool
+Bad conversion: bool
+Bad conversion: bool
+Bad conversion: bool
+Bad conversion: bool
+Bad conversion: bool
+Bad conversion: bool
+Bad conversion: bool
+Bad conversion: bool
+Bad conversion: bool
+Bad conversion: bool
+Bad conversion: bool
+Bad conversion: bool
+Bad conversion: bool
+Bad conversion: bool
+Bad conversion: bool
+Bad conversion: bool
+Bad conversion: bool
+Bad conversion: bool
+Bad conversion: bool
+Bad conversion: bool
+Bad conversion: bool
+Bad conversion: bool
+Bad conversion: bool
+Bad conversion: bool
+Bad conversion: bool
+Bad conversion: bool
+Bad conversion: bool
+Bad conversion: bool
+Bad conversion: bool
+Bad conversion: bool
+Bad conversion: bool
+Bad conversion: bool
+Bad conversion: bool
+Bad conversion: bool
+Bad conversion: bool
+Bad conversion: bool
+Bad conversion: bool
+Bad conversion: bool
+Bad conversion: bool
+Bad conversion: bool
+Bad conversion: bool
+Bad conversion: bool
+Bad conversion: bool
+Bad conversion: bool
+Bad conversion: bool
+Bad conversion: bool
+Bad conversion: bool
+Bad conversion: bool
+Bad conversion: bool
+Bad conversion: bool
+Bad conversion: bool
+Bad conversion: bool
+Bad conversion: bool
+Bad conversion: bool
+Bad conversion: bool
+Bad conversion: bool
+Bad conversion: bool
+Bad conversion: bool
+Bad conversion: bool
+Bad conversion: bool
+Bad conversion: bool
+Bad conversion: bool
+Bad conversion: bool
+Bad conversion: bool
+Bad conversion: bool
+Bad conversion: bool
+Bad conversion: bool
+Bad conversion: bool
+Bad conversion: bool
+Bad conversion: bool
+Bad conversion: bool
+Bad conversion: bool
+Bad conversion: bool
+Bad conversion: bool
+Bad conversion: bool
+Bad conversion: bool
+Bad conversion: bool
+Bad conversion: bool
+Bad conversion: bool
+Bad conversion: bool
+Bad conversion: bool
+Bad conversion: bool
+Bad conversion: bool
+Bad conversion: bool
+Bad conversion: bool
+Bad conversion: bool
+Bad conversion: bool
+Bad conversion: bool
+Bad conversion: bool
+Bad conversion: bool
+Bad conversion: bool
+Bad conversion: bool
+Bad conversion: bool
+Bad conversion: bool
+Bad conversion: bool
+Bad conversion: bool
+Bad conversion: bool
+Bad conversion: bool
+Bad conversion: bool
+Bad conversion: bool
+Bad conversion: bool
+Bad conversion: bool
+Bad conversion: bool
+Bad conversion: bool
+Bad conversion: bool
+Bad conversion: bool
+Bad conversion: bool
+Bad conversion: bool
+Bad conversion: bool
+Bad conversion: bool
+Bad conversion: bool
+Performance warning: SimpleSerialization::Write 'mxkivscei' is using type of ',CODE' which is not optimized by simple serialization, falling back to generic serialization, use generic type or ask for optimizations for these types
+Performance warning: SimpleSerialization::Write 'jlydauw' is using type of ',CODE' which is not optimized by simple serialization, falling back to generic serialization, use generic type or ask for optimizations for these types
+Performance warning: SimpleSerialization::Write 'ggnhbr' is using type of ',CODE' which is not optimized by simple serialization, falling back to generic serialization, use generic type or ask for optimizations for these types
+Performance warning: SimpleSerialization::Write 'rdzcrjyw' is using type of ',CODE' which is not optimized by simple serialization, falling back to generic serialization, use generic type or ask for optimizations for these types
+"Epoch: Start Hive, Instance ID: 'NA123'"
+"Epoch: Init PublicEH"
+"Epoch: Setup Side Settings"
+"Epoch: Setup World Settings for Altis"
+"Epoch: Set Weather"
+Weather was forced to change
+"Weather Change: fog: [0.19093,0.0779985,4.83209] rain: 0.10999 overcast: 0.867274 windx: 9.0448 windz: 1.2836 forced: true"
+"[KillFeed]: Server waiting for EPOCH_deadPlayer_PVS"
+Performance warning: SimpleSerialization::Read 'mxkivscei' is using type of ,'CODE' which is not optimized by simple serialization, falling back to generic serialization, use generic type or ask for optimizations for these types
+Performance warning: SimpleSerialization::Read 'jlydauw' is using type of ,'CODE' which is not optimized by simple serialization, falling back to generic serialization, use generic type or ask for optimizations for these types
+Performance warning: SimpleSerialization::Read 'ggnhbr' is using type of ,'CODE' which is not optimized by simple serialization, falling back to generic serialization, use generic type or ask for optimizations for these types
+Performance warning: SimpleSerialization::Read 'rdzcrjyw' is using type of ,'CODE' which is not optimized by simple serialization, falling back to generic serialization, use generic type or ask for optimizations for these types
+"Epoch: Loading buildings"
+"Epoch: Loading teleports and static props"
+"Epoch: Loading NPC traders"
+"Epoch: Spawning NPC traders"
+"Epoch: Loading vehicles"
+Error: Bone cheek_lf doesn't exist in skeleton OFP2_ManSkeleton
+Error: Bone nose_tip doesn't exist in skeleton OFP2_ManSkeleton
+Error: Bone lip_uplb doesn't exist in skeleton OFP2_ManSkeleton
+Error: Bone jaw_ls doesn't exist in skeleton OFP2_ManSkeleton
+Error: Bone lip_uplf doesn't exist in skeleton OFP2_ManSkeleton
+Error: Bone lip_lc doesn't exist in skeleton OFP2_ManSkeleton
+Error: Bone lip_lwlb doesn't exist in skeleton OFP2_ManSkeleton
+Error: Bone lip_lwlf doesn't exist in skeleton OFP2_ManSkeleton
+Error: Bone jaw_lm doesn't exist in skeleton OFP2_ManSkeleton
+Error: Bone zig_lb doesn't exist in skeleton OFP2_ManSkeleton
+Error: Bone lip_lwm doesn't exist in skeleton OFP2_ManSkeleton
+Error: Bone lip_upm doesn't exist in skeleton OFP2_ManSkeleton
+Error: Bone ear_l doesn't exist in skeleton OFP2_ManSkeleton
+Error: Bone corr doesn't exist in skeleton OFP2_ManSkeleton
+Error: Bone tongue_m doesn't exist in skeleton OFP2_ManSkeleton
+Error: Bone tongue_f doesn't exist in skeleton OFP2_ManSkeleton
+Error: Bone eyebrow_lb doesn't exist in skeleton OFP2_ManSkeleton
+Error: Bone eyebrow_lf doesn't exist in skeleton OFP2_ManSkeleton
+Error: Bone eyebrow_lm doesn't exist in skeleton OFP2_ManSkeleton
+Error: Bone zig_lm doesn't exist in skeleton OFP2_ManSkeleton
+Error: Bone eye_upl doesn't exist in skeleton OFP2_ManSkeleton
+Error: Bone eye_lwl doesn't exist in skeleton OFP2_ManSkeleton
+Error: Bone cheek_l doesn't exist in skeleton OFP2_ManSkeleton
+Error: Bone cheek_lb doesn't exist in skeleton OFP2_ManSkeleton
+Error: Bone zig_lt doesn't exist in skeleton OFP2_ManSkeleton
+Error: Bone nose_l doesn't exist in skeleton OFP2_ManSkeleton
+Error: Bone cheek_lm doesn't exist in skeleton OFP2_ManSkeleton
+Error: Bone nose_r doesn't exist in skeleton OFP2_ManSkeleton
+Error: Bone forehead_r doesn't exist in skeleton OFP2_ManSkeleton
+Error: Bone forehead_m doesn't exist in skeleton OFP2_ManSkeleton
+Error: Bone forehead_l doesn't exist in skeleton OFP2_ManSkeleton
+Error: Bone cheek_rb doesn't exist in skeleton OFP2_ManSkeleton
+Error: Bone eye_lwr doesn't exist in skeleton OFP2_ManSkeleton
+Error: Bone cheek_r doesn't exist in skeleton OFP2_ManSkeleton
+Error: Bone zig_rt doesn't exist in skeleton OFP2_ManSkeleton
+Error: Bone zig_rm doesn't exist in skeleton OFP2_ManSkeleton
+Error: Bone cheek_rf doesn't exist in skeleton OFP2_ManSkeleton
+Error: Bone cheek_rm doesn't exist in skeleton OFP2_ManSkeleton
+Error: Bone eyebrow_rm doesn't exist in skeleton OFP2_ManSkeleton
+Error: Bone eyebrow_rf doesn't exist in skeleton OFP2_ManSkeleton
+Error: Bone eye_upr doesn't exist in skeleton OFP2_ManSkeleton
+Error: Bone eyebrow_rb doesn't exist in skeleton OFP2_ManSkeleton
+Error: Bone tongue_b doesn't exist in skeleton OFP2_ManSkeleton
+Error: Bone ear_r doesn't exist in skeleton OFP2_ManSkeleton
+Error: Bone neck_l doesn't exist in skeleton OFP2_ManSkeleton
+Error: Bone lip_uprf doesn't exist in skeleton OFP2_ManSkeleton
+Error: Bone neck_r doesn't exist in skeleton OFP2_ManSkeleton
+Error: Bone lip_uprb doesn't exist in skeleton OFP2_ManSkeleton
+Error: Bone lip_rc doesn't exist in skeleton OFP2_ManSkeleton
+Error: Bone lip_lwrb doesn't exist in skeleton OFP2_ManSkeleton
+Error: Bone lip_lwrf doesn't exist in skeleton OFP2_ManSkeleton
+Error: Bone neck_b doesn't exist in skeleton OFP2_ManSkeleton
+Error: Bone zig_rb doesn't exist in skeleton OFP2_ManSkeleton
+Error: Bone neck_t doesn't exist in skeleton OFP2_ManSkeleton
+Error: Bone jaw_rf doesn't exist in skeleton OFP2_ManSkeleton
+Error: Bone jaw_lf doesn't exist in skeleton OFP2_ManSkeleton
+Error: Bone chin doesn't exist in skeleton OFP2_ManSkeleton
+Error: Bone jaw_rm doesn't exist in skeleton OFP2_ManSkeleton
+Error: Bone jaw_rs doesn't exist in skeleton OFP2_ManSkeleton
+Error: Bone jaw doesn't exist in skeleton OFP2_ManSkeleton
+Error: Bone headcutscene doesn't exist in skeleton OFP2_ManSkeleton
+Error: Wheel reference not initialized
+Error: Wheel reference not initialized
+Error: Wheel reference not initialized
+B_Heli_Light_01_EPOCH: AddDoors - unknown animation source AddDoors
+B_Heli_Light_01_EPOCH: GunL_Revolving - unknown animation source GunL_Revolving
+B_Heli_Light_01_EPOCH: GunR_Revolving - unknown animation source GunR_Revolving
+B_Heli_Light_01_EPOCH: AddFLIR - unknown animation source AddFLIR
+B_Heli_Light_01_EPOCH: AddGunHolder - unknown animation source AddGunHolder
+B_Heli_Light_01_EPOCH: hidePG_1 - unknown animation source Missiles_revolving
+B_Heli_Light_01_EPOCH: zaslehROT - unknown animation source Muzzle_flash
+Error: Bone cheek_lf doesn't exist in skeleton OFP2_ManSkeleton
+Error: Bone nose_tip doesn't exist in skeleton OFP2_ManSkeleton
+Error: Bone lip_uplb doesn't exist in skeleton OFP2_ManSkeleton
+Error: Bone jaw_ls doesn't exist in skeleton OFP2_ManSkeleton
+Error: Bone lip_uplf doesn't exist in skeleton OFP2_ManSkeleton
+Error: Bone lip_lc doesn't exist in skeleton OFP2_ManSkeleton
+Error: Bone lip_lwlb doesn't exist in skeleton OFP2_ManSkeleton
+Error: Bone lip_lwlf doesn't exist in skeleton OFP2_ManSkeleton
+Error: Bone jaw_lm doesn't exist in skeleton OFP2_ManSkeleton
+Error: Bone zig_lb doesn't exist in skeleton OFP2_ManSkeleton
+Error: Bone lip_lwm doesn't exist in skeleton OFP2_ManSkeleton
+Error: Bone lip_upm doesn't exist in skeleton OFP2_ManSkeleton
+Error: Bone ear_l doesn't exist in skeleton OFP2_ManSkeleton
+Error: Bone corr doesn't exist in skeleton OFP2_ManSkeleton
+Error: Bone tongue_m doesn't exist in skeleton OFP2_ManSkeleton
+Error: Bone tongue_f doesn't exist in skeleton OFP2_ManSkeleton
+Error: Bone eyebrow_lb doesn't exist in skeleton OFP2_ManSkeleton
+Error: Bone eyebrow_lf doesn't exist in skeleton OFP2_ManSkeleton
+Error: Bone eyebrow_lm doesn't exist in skeleton OFP2_ManSkeleton
+Error: Bone zig_lm doesn't exist in skeleton OFP2_ManSkeleton
+Error: Bone eye_upl doesn't exist in skeleton OFP2_ManSkeleton
+Error: Bone eye_lwl doesn't exist in skeleton OFP2_ManSkeleton
+Error: Bone cheek_l doesn't exist in skeleton OFP2_ManSkeleton
+Error: Bone cheek_lb doesn't exist in skeleton OFP2_ManSkeleton
+Error: Bone zig_lt doesn't exist in skeleton OFP2_ManSkeleton
+Error: Bone nose_l doesn't exist in skeleton OFP2_ManSkeleton
+Error: Bone cheek_lm doesn't exist in skeleton OFP2_ManSkeleton
+Error: Bone nose_r doesn't exist in skeleton OFP2_ManSkeleton
+Error: Bone forehead_r doesn't exist in skeleton OFP2_ManSkeleton
+Error: Bone forehead_m doesn't exist in skeleton OFP2_ManSkeleton
+Error: Bone forehead_l doesn't exist in skeleton OFP2_ManSkeleton
+Error: Bone cheek_rb doesn't exist in skeleton OFP2_ManSkeleton
+Error: Bone eye_lwr doesn't exist in skeleton OFP2_ManSkeleton
+Error: Bone cheek_r doesn't exist in skeleton OFP2_ManSkeleton
+Error: Bone zig_rt doesn't exist in skeleton OFP2_ManSkeleton
+Error: Bone zig_rm doesn't exist in skeleton OFP2_ManSkeleton
+Error: Bone cheek_rf doesn't exist in skeleton OFP2_ManSkeleton
+Error: Bone cheek_rm doesn't exist in skeleton OFP2_ManSkeleton
+Error: Bone eyebrow_rm doesn't exist in skeleton OFP2_ManSkeleton
+Error: Bone eyebrow_rf doesn't exist in skeleton OFP2_ManSkeleton
+Error: Bone eye_upr doesn't exist in skeleton OFP2_ManSkeleton
+Error: Bone eyebrow_rb doesn't exist in skeleton OFP2_ManSkeleton
+Error: Bone tongue_b doesn't exist in skeleton OFP2_ManSkeleton
+Error: Bone ear_r doesn't exist in skeleton OFP2_ManSkeleton
+Error: Bone neck_l doesn't exist in skeleton OFP2_ManSkeleton
+Error: Bone lip_uprf doesn't exist in skeleton OFP2_ManSkeleton
+Error: Bone neck_r doesn't exist in skeleton OFP2_ManSkeleton
+Error: Bone lip_uprb doesn't exist in skeleton OFP2_ManSkeleton
+Error: Bone lip_rc doesn't exist in skeleton OFP2_ManSkeleton
+Error: Bone lip_lwrb doesn't exist in skeleton OFP2_ManSkeleton
+Error: Bone lip_lwrf doesn't exist in skeleton OFP2_ManSkeleton
+Error: Bone neck_b doesn't exist in skeleton OFP2_ManSkeleton
+Error: Bone zig_rb doesn't exist in skeleton OFP2_ManSkeleton
+Error: Bone neck_t doesn't exist in skeleton OFP2_ManSkeleton
+Error: Bone jaw_rf doesn't exist in skeleton OFP2_ManSkeleton
+Error: Bone jaw_lf doesn't exist in skeleton OFP2_ManSkeleton
+Error: Bone chin doesn't exist in skeleton OFP2_ManSkeleton
+Error: Bone jaw_rm doesn't exist in skeleton OFP2_ManSkeleton
+Error: Bone jaw_rs doesn't exist in skeleton OFP2_ManSkeleton
+Error: Bone jaw doesn't exist in skeleton OFP2_ManSkeleton
+Error: Bone headcutscene doesn't exist in skeleton OFP2_ManSkeleton
+class HitPoints::HitFuel not found in mosquito_epoch
+class HitPoints::HitLight not found in mosquito_epoch
+class HitPoints::HitHydraulics not found in mosquito_epoch
+class HitPoints::HitGear not found in mosquito_epoch
+class HitPoints::HitHStabilizerL1 not found in mosquito_epoch
+class HitPoints::HitHStabilizerR1 not found in mosquito_epoch
+class HitPoints::HitVStabilizer1 not found in mosquito_epoch
+class HitPoints::HitTail not found in mosquito_epoch
+class HitPoints::HitPitotTube not found in mosquito_epoch
+class HitPoints::HitStaticPort not found in mosquito_epoch
+class HitPoints::HitEngine2 not found in mosquito_epoch
+class HitPoints::HitEngine3 not found in mosquito_epoch
+Cannot load surface info ca\data\Penetration\rubber.bisurf
+Cannot load surface info ca\data\Penetration\concrete.bisurf
+Error: Wheel reference not initialized
+Cannot load surface info ca\data\Penetration\wood.bisurf
+"VEH SPAWN TIMER 7.02499"
+"Epoch: Spawning vehicles"
+"[A3EAI] Verified 351 unique classnames in 0.0389938 seconds."
+Strange convex component322 in a3\structures_f\research\dome_big_f.p3d:geometryFire
+Strange convex component327 in a3\structures_f\research\dome_big_f.p3d:geometryFire
+Error: Bone cheek_lf doesn't exist in skeleton OFP2_ManSkeleton
+Error: Bone nose_tip doesn't exist in skeleton OFP2_ManSkeleton
+Error: Bone lip_uplb doesn't exist in skeleton OFP2_ManSkeleton
+Error: Bone jaw_ls doesn't exist in skeleton OFP2_ManSkeleton
+Error: Bone lip_uplf doesn't exist in skeleton OFP2_ManSkeleton
+Error: Bone lip_lc doesn't exist in skeleton OFP2_ManSkeleton
+Error: Bone lip_lwlb doesn't exist in skeleton OFP2_ManSkeleton
+Error: Bone lip_lwlf doesn't exist in skeleton OFP2_ManSkeleton
+Error: Bone jaw_lm doesn't exist in skeleton OFP2_ManSkeleton
+Error: Bone zig_lb doesn't exist in skeleton OFP2_ManSkeleton
+Error: Bone lip_lwm doesn't exist in skeleton OFP2_ManSkeleton
+Error: Bone lip_upm doesn't exist in skeleton OFP2_ManSkeleton
+Error: Bone ear_l doesn't exist in skeleton OFP2_ManSkeleton
+Error: Bone corr doesn't exist in skeleton OFP2_ManSkeleton
+Error: Bone tongue_m doesn't exist in skeleton OFP2_ManSkeleton
+Error: Bone tongue_f doesn't exist in skeleton OFP2_ManSkeleton
+Error: Bone eyebrow_lb doesn't exist in skeleton OFP2_ManSkeleton
+Error: Bone eyebrow_lf doesn't exist in skeleton OFP2_ManSkeleton
+Error: Bone eyebrow_lm doesn't exist in skeleton OFP2_ManSkeleton
+Error: Bone zig_lm doesn't exist in skeleton OFP2_ManSkeleton
+Error: Bone eye_upl doesn't exist in skeleton OFP2_ManSkeleton
+Error: Bone eye_lwl doesn't exist in skeleton OFP2_ManSkeleton
+Error: Bone cheek_l doesn't exist in skeleton OFP2_ManSkeleton
+Error: Bone cheek_lb doesn't exist in skeleton OFP2_ManSkeleton
+Error: Bone zig_lt doesn't exist in skeleton OFP2_ManSkeleton
+Error: Bone nose_l doesn't exist in skeleton OFP2_ManSkeleton
+Error: Bone cheek_lm doesn't exist in skeleton OFP2_ManSkeleton
+Error: Bone nose_r doesn't exist in skeleton OFP2_ManSkeleton
+Error: Bone forehead_r doesn't exist in skeleton OFP2_ManSkeleton
+Error: Bone forehead_m doesn't exist in skeleton OFP2_ManSkeleton
+Error: Bone forehead_l doesn't exist in skeleton OFP2_ManSkeleton
+Error: Bone cheek_rb doesn't exist in skeleton OFP2_ManSkeleton
+Error: Bone eye_lwr doesn't exist in skeleton OFP2_ManSkeleton
+Error: Bone cheek_r doesn't exist in skeleton OFP2_ManSkeleton
+Error: Bone zig_rt doesn't exist in skeleton OFP2_ManSkeleton
+Error: Bone zig_rm doesn't exist in skeleton OFP2_ManSkeleton
+Error: Bone cheek_rf doesn't exist in skeleton OFP2_ManSkeleton
+Error: Bone cheek_rm doesn't exist in skeleton OFP2_ManSkeleton
+Error: Bone eyebrow_rm doesn't exist in skeleton OFP2_ManSkeleton
+Error: Bone eyebrow_rf doesn't exist in skeleton OFP2_ManSkeleton
+Error: Bone eye_upr doesn't exist in skeleton OFP2_ManSkeleton
+Error: Bone eyebrow_rb doesn't exist in skeleton OFP2_ManSkeleton
+Error: Bone tongue_b doesn't exist in skeleton OFP2_ManSkeleton
+Error: Bone ear_r doesn't exist in skeleton OFP2_ManSkeleton
+Error: Bone neck_l doesn't exist in skeleton OFP2_ManSkeleton
+Error: Bone lip_uprf doesn't exist in skeleton OFP2_ManSkeleton
+Error: Bone neck_r doesn't exist in skeleton OFP2_ManSkeleton
+Error: Bone lip_uprb doesn't exist in skeleton OFP2_ManSkeleton
+Error: Bone lip_rc doesn't exist in skeleton OFP2_ManSkeleton
+Error: Bone lip_lwrb doesn't exist in skeleton OFP2_ManSkeleton
+Error: Bone lip_lwrf doesn't exist in skeleton OFP2_ManSkeleton
+Error: Bone neck_b doesn't exist in skeleton OFP2_ManSkeleton
+Error: Bone zig_rb doesn't exist in skeleton OFP2_ManSkeleton
+Error: Bone neck_t doesn't exist in skeleton OFP2_ManSkeleton
+Error: Bone jaw_rf doesn't exist in skeleton OFP2_ManSkeleton
+Error: Bone jaw_lf doesn't exist in skeleton OFP2_ManSkeleton
+Error: Bone chin doesn't exist in skeleton OFP2_ManSkeleton
+Error: Bone jaw_rm doesn't exist in skeleton OFP2_ManSkeleton
+Error: Bone jaw_rs doesn't exist in skeleton OFP2_ManSkeleton
+Error: Bone jaw doesn't exist in skeleton OFP2_ManSkeleton
+Error: Bone headcutscene doesn't exist in skeleton OFP2_ManSkeleton
+"Epoch: Loading storage"
+Performance warning: SimpleSerialization::Write 'BIS_fnc_preload_server' is using type of ',CODE' which is not optimized by simple serialization, falling back to generic serialization, use generic type or ask for optimizations for these types
+Performance warning: SimpleSerialization::Read 'BIS_fnc_preload_server' is using type of ,'CODE' which is not optimized by simple serialization, falling back to generic serialization, use generic type or ask for optimizations for these types
+"Storage SPAWN TIMER 0.640999"
+"Epoch: Loading static loot"
+"Epoch: Server Start Complete: 22.034 seconds"
+"Loaded Server FSM"
+B_Heli_Light_01_armed_F: AddDoors - unknown animation source AddDoors
+B_Heli_Light_01_armed_F: AddBenches - unknown animation source AddBenches
+B_Heli_Light_01_armed_F: BenchL_Up - unknown animation source BenchL_Up
+B_Heli_Light_01_armed_F: BenchR_Up - unknown animation source BenchR_Up
+B_Heli_Light_01_armed_F: BenchL_Up_instant - unknown animation source BenchL_Up_instant
+B_Heli_Light_01_armed_F: BenchR_Up_instant - unknown animation source BenchR_Up_instant
+B_Heli_Light_01_armed_F: AddBackseats - unknown animation source AddBackseats
+B_Heli_Light_01_armed_F: AddFLIR - unknown animation source AddFLIR
+B_Heli_Light_01_armed_F: AddHoldingFrame - unknown animation source AddHoldingFrame
+Strange convex component317 in a3\rocks_f\blunt\bluntrock_wallv.p3d:geometry
+Strange convex component318 in a3\rocks_f\blunt\bluntrock_wallv.p3d:geometry
+Strange convex component319 in a3\rocks_f\blunt\bluntrock_wallv.p3d:geometry
+"playerConnected:76561197999853181:AorrowG"
+"playerConnected::__SERVER__"
+No speaker given for Abdul-Aziz Ghafurzai
+"DEBUG (Load Player) Group Content: [1,["OneTwoThree","CopyCat",4,[],[["76561197999853181","AorrowG"]]]]"
+"DEBUG (Load Player) Set Group: 76561198005282239"
+Performance warning: SimpleSerialization::Write 'azqvr' is using type of ',CODE' which is not optimized by simple serialization, falling back to generic serialization, use generic type or ask for optimizations for these types
+Performance warning: SimpleSerialization::Read 'azqvr' is using type of ,'CODE' which is not optimized by simple serialization, falling back to generic serialization, use generic type or ask for optimizations for these types
+Speaker Male03_F not found in CfgVoiceTypes
+"ZEVMission: run static missions:"
+"ZEVMission - ZEVStaticMissionLoop(Static = 1): starting script"
+"ZEVMission - ZEVStaticMissionLoop(Static = 1): running missions count = 0 "
+"ZEVMission - ZEVStaticMissionLoop(Static = 1): try to start mission 0 "
+"ZEVMission - ZEVStaticMissionLoop(Static = 1): mission 0 was selected "
+"ZEVMission: starting script - ZEVMissionStart  "
+"ZEVMission - ZEVMissionStart reading parameters of mission  0 "
+"ZEVMission: _missionName = Area security 2 "
+"ZEVMission: _missionStartMessage = Mission start message "
+"ZEVMission: _missionEndMessage =  "
+"ZEVMission: _missionFailMessage =  "
+"ZEVMission: _missionTimeLimit = 600 "
+"ZEVMission: _locationsData = [1,[["Specified",500,107,[3825,11583,0],[0,["NoBuildings"]],[0,["NoVehicles"]],[1,[[1,"RESISTANCE","COLUMN","BuildGuard",1,1,4,["Specified",[7,-2,0],179],["I_Soldier_EPOCH","Random",[5565,7713,0],"CARELESS","RED",1,["Arifle_MX_GL_F",3,"NONE",0,[],"NONE","NONE"],[],["None",["NONE",0,["NoItems"]],["NONE",0,["NoItems"]],[]],["Random",[["aimingAccuracy",0.6],["aimingShake",0.7],["aimingSpeed",0.8],["endurance",0.9],["spotDistance",0.8],["spotTime",0.7],["courage",0.9],["reloadSpeed",1],["commanding",1],["general",1]]],"Yes","Yes",[],"Yes",5,0,0,["None",["NONE",0,["NoItems"]],["NONE",0,["NoItems"]],[]],["V_F0_EPOCH",["NONE",0,["NoItems"]],["Specified",1,[["1Rnd_HE_Grenade_shell","Specified",5,[]]]],[]],["H_F0_EPOCH",[]],124],["Box_NATO_Wps_F","Random",[5441,7806,0],132,"Yes",["NONE",0,["NoItems"]],["Specified",1,[["RandomList","Specified",3,["CookedRabbit_EPOCH","ItemSodaMocha","ItemSodaPurple","ItemSodaOrangeSherbet","CookedSheep_EPOCH","sardines_epoch","meatballs_epoch","scam_epoch","sweetcorn_epoch","water_epoch","honey_epoch","CookedChicken_EPOCH","ItemSodaRbull","ItemSodaBurst"]]]],"No",[],5,10,60,90]]]],[0,["NoArea"]]]]] "
+"ZEVMission - ZEVMissionStart selected location data ["Specified",500,107,[3825,11583,0],[0,["NoBuildings"]],[0,["NoVehicles"]],[1,[[1,"RESISTANCE","COLUMN","BuildGuard",1,1,4,["Specified",[7,-2,0],179],["I_Soldier_EPOCH","Random",[5565,7713,0],"CARELESS","RED",1,["Arifle_MX_GL_F",3,"NONE",0,[],"NONE","NONE"],[],["None",["NONE",0,["NoItems"]],["NONE",0,["NoItems"]],[]],["Random",[["aimingAccuracy",0.6],["aimingShake",0.7],["aimingSpeed",0.8],["endurance",0.9],["spotDistance",0.8],["spotTime",0.7],["courage",0.9],["reloadSpeed",1],["commanding",1],["general",1]]],"Yes","Yes",[],"Yes",5,0,0,["None",["NONE",0,["NoItems"]],["NONE",0,["NoItems"]],[]],["V_F0_EPOCH",["NONE",0,["NoItems"]],["Specified",1,[["1Rnd_HE_Grenade_shell","Specified",5,[]]]],[]],["H_F0_EPOCH",[]],124],["Box_NATO_Wps_F","Random",[5441,7806,0],132,"Yes",["NONE",0,["NoItems"]],["Specified",1,[["RandomList","Specified",3,["CookedRabbit_EPOCH","ItemSodaMocha","ItemSodaPurple","ItemSodaOrangeSherbet","CookedSheep_EPOCH","sardines_epoch","meatballs_epoch","scam_epoch","sweetcorn_epoch","water_epoch","honey_epoch","CookedChicken_EPOCH","ItemSodaRbull","ItemSodaBurst"]]]],"No",[],5,10,60,90]]]],[0,["NoArea"]]] "
+"ZEVMission - ZEVMissionStart locPosType:Specified, trigRadius:500, Radius:107, Pos:[3825,11583,0] "
+"ZEVMission - ZEVMissionStart _positions = [0,["NoArea"]]"
+"ZEVMission - ZEVMissionFindRunningMissionInRadius(Static = 1):  _this = [[3825,11583,0],500,1] "
+"ZEVMission - ZEVMissionFindRunningMissionInRadius(Static = 1):  _ZEVActiveMissionParm = [[[0,0,0],0,0],[[0,0,0],0,0],[[0,0,0],0,0],[[0,0,0],0,0],[[0,0,0],0,0],[[0,0,0],0,0],[[0,0,0],0,0]] "
+"ZEVMission - ZEVMissionFindRunningMissionInRadius(Static = 1):  _ZEVMissionInProgress = [0,0,0,0,0,0,0] "
+"ZEVMission - ZEVMissionSetMissionInProgress(Static = 1): mission idx = 0"
+"ZEVMission - ZEVMissionSetMissionInProgress(Static = 1): ZEVMissionInProgress = [0,0]"
+"ZEVMission - ZEVMissionSetMissionInProgress(Static = 1): ZEVStaticMissionInProgress = [0,0,0,0,0,0,0]"
+"ZEVMission - ZEVMissionSetMissionInProgress(Static = 1): ZEVMissionInProgress = [0,0]"
+"ZEVMission - ZEVMissionSetMissionInProgress(Static = 1): ZEVStaticMissionInProgress = [1,0,0,0,0,0,0]"
+"ZEVMission - ZEVMissionStart show mission start message: Mission start message "
+"ZEVMission - ZEVMissionStart:  start waiting for player will be near 500m from [3825,11583,0]"
+"ZEVMission - ZEVStaticMissionLoop(Static = 1): try to start mission 1 "
+"ZEVMission - ZEVStaticMissionLoop(Static = 1): mission 1 was selected "
+"ZEVMission: starting script - ZEVMissionStart  "
+"ZEVMission - ZEVMissionStart reading parameters of mission  1 "
+"ZEVMission: _missionName = Area security  4 "
+"ZEVMission: _missionStartMessage = Mission start message "
+"ZEVMission: _missionEndMessage =  "
+"ZEVMission: _missionFailMessage =  "
+"ZEVMission: _missionTimeLimit = 600 "
+"ZEVMission: _locationsData = [1,[["Specified",500,85,[9053,12016,0],[0,["NoBuildings"]],[0,["NoVehicles"]],[1,[[1,"RESISTANCE","COLUMN","BuildGuard",1,1,3,["Specified",[-50,31,0],166],["I_Soldier_EPOCH","Random",[337,7280,0],"CARELESS","RED",1,["Arifle_MX_GL_F",3,"NONE",0,[],"NONE","NONE"],[],["None",["NONE",0,["NoItems"]],["NONE",0,["NoItems"]],[]],["Random",[["aimingAccuracy",0.6],["aimingShake",0.7],["aimingSpeed",0.8],["endurance",0.9],["spotDistance",0.8],["spotTime",0.7],["courage",0.9],["reloadSpeed",1],["commanding",1],["general",1]]],"Yes","Yes",[],"Yes",5,0,0,["None",["NONE",0,["NoItems"]],["NONE",0,["NoItems"]],[]],["V_F0_EPOCH",["NONE",0,["NoItems"]],["Specified",1,[["1Rnd_HE_Grenade_shell","Specified",5,[]]]],[]],["H_F0_EPOCH",[]],124],["Box_NATO_Wps_F","Random",[213,7373,0],132,"Yes",["NONE",0,["NoItems"]],["Specified",1,[["RandomList","Specified",3,["ItemSodaPurple","ItemSodaOrangeSherbet","ItemSodaRbull","ItemSodaBurst","CookedSheep_EPOCH","CookedChicken_EPOCH","CookedRabbit_EPOCH","sardines_epoch","meatballs_epoch","scam_epoch","sweetcorn_epoch","water_epoch","honey_epoch","ItemSodaMocha"]]]],"No",[],5,10,60,90]]]],[0,["NoArea"]]]]] "
+"ZEVMission - ZEVMissionStart selected location data ["Specified",500,85,[9053,12016,0],[0,["NoBuildings"]],[0,["NoVehicles"]],[1,[[1,"RESISTANCE","COLUMN","BuildGuard",1,1,3,["Specified",[-50,31,0],166],["I_Soldier_EPOCH","Random",[337,7280,0],"CARELESS","RED",1,["Arifle_MX_GL_F",3,"NONE",0,[],"NONE","NONE"],[],["None",["NONE",0,["NoItems"]],["NONE",0,["NoItems"]],[]],["Random",[["aimingAccuracy",0.6],["aimingShake",0.7],["aimingSpeed",0.8],["endurance",0.9],["spotDistance",0.8],["spotTime",0.7],["courage",0.9],["reloadSpeed",1],["commanding",1],["general",1]]],"Yes","Yes",[],"Yes",5,0,0,["None",["NONE",0,["NoItems"]],["NONE",0,["NoItems"]],[]],["V_F0_EPOCH",["NONE",0,["NoItems"]],["Specified",1,[["1Rnd_HE_Grenade_shell","Specified",5,[]]]],[]],["H_F0_EPOCH",[]],124],["Box_NATO_Wps_F","Random",[213,7373,0],132,"Yes",["NONE",0,["NoItems"]],["Specified",1,[["RandomList","Specified",3,["ItemSodaPurple","ItemSodaOrangeSherbet","ItemSodaRbull","ItemSodaBurst","CookedSheep_EPOCH","CookedChicken_EPOCH","CookedRabbit_EPOCH","sardines_epoch","meatballs_epoch","scam_epoch","sweetcorn_epoch","water_epoch","honey_epoch","ItemSodaMocha"]]]],"No",[],5,10,60,90]]]],[0,["NoArea"]]] "
+"ZEVMission - ZEVMissionStart locPosType:Specified, trigRadius:500, Radius:85, Pos:[9053,12016,0] "
+"ZEVMission - ZEVMissionStart _positions = [0,["NoArea"]]"
+"ZEVMission - ZEVMissionFindRunningMissionInRadius(Static = 1):  _this = [[9053,12016,0],500,1] "
+"ZEVMission - ZEVMissionFindRunningMissionInRadius(Static = 1):  _ZEVActiveMissionParm = [[[3825,11583,0],107,500,"All AI units dead"],[[0,0,0],0,0],[[0,0,0],0,0],[[0,0,0],0,0],[[0,0,0],0,0],[[0,0,0],0,0],[[0,0,0],0,0]] "
+"ZEVMission - ZEVMissionFindRunningMissionInRadius(Static = 1):  _ZEVMissionInProgress = [1,0,0,0,0,0,0] "
+"ZEVMission - ZEVMissionSetMissionInProgress(Static = 1): mission idx = 1"
+"ZEVMission - ZEVMissionSetMissionInProgress(Static = 1): ZEVMissionInProgress = [0,0]"
+"ZEVMission - ZEVMissionSetMissionInProgress(Static = 1): ZEVStaticMissionInProgress = [1,0,0,0,0,0,0]"
+"ZEVMission - ZEVMissionSetMissionInProgress(Static = 1): ZEVMissionInProgress = [0,0]"
+"ZEVMission - ZEVMissionSetMissionInProgress(Static = 1): ZEVStaticMissionInProgress = [1,1,0,0,0,0,0]"
+"ZEVMission - ZEVMissionStart show mission start message: Mission start message "
+"ZEVMission - ZEVMissionStart:  start waiting for player will be near 500m from [9053,12016,0]"
+"ZEVMission - ZEVStaticMissionLoop(Static = 1): try to start mission 2 "
+"ZEVMission - ZEVStaticMissionLoop(Static = 1): mission 2 was selected "
+"ZEVMission: starting script - ZEVMissionStart  "
+"ZEVMission - ZEVMissionStart reading parameters of mission  2 "
+"ZEVMission: _missionName = Area security 6 "
+"ZEVMission: _missionStartMessage = Mission start message "
+"ZEVMission: _missionEndMessage =  "
+"ZEVMission: _missionFailMessage =  "
+"ZEVMission: _missionTimeLimit = 600 "
+"ZEVMission: _locationsData = [1,[["Specified",300,44,[9249,15874,0],[0,["NoBuildings"]],[0,["NoVehicles"]],[1,[[1,"RESISTANCE","COLUMN","BuildGuard",1,1,4,["Specified",[9,7,0],138],["I_Soldier_EPOCH","Random",[141,3422,0],"CARELESS","RED",1,["Arifle_MX_GL_F",3,"NONE",0,[],"NONE","NONE"],[],["None",["NONE",0,["NoItems"]],["NONE",0,["NoItems"]],[]],["Random",[["aimingAccuracy",0.6],["aimingShake",0.7],["aimingSpeed",0.8],["endurance",0.9],["spotDistance",0.8],["spotTime",0.7],["courage",0.9],["reloadSpeed",1],["commanding",1],["general",1]]],"Yes","Yes",[],"Yes",5,0,0,["None",["NONE",0,["NoItems"]],["NONE",0,["NoItems"]],[]],["V_F0_EPOCH",["NONE",0,["NoItems"]],["Specified",1,[["1Rnd_HE_Grenade_shell","Specified",5,[]]]],[]],["H_F0_EPOCH",[]],124],["Box_NATO_Wps_F","Random",[17,3515,0],132,"Yes",["NONE",0,["NoItems"]],["Specified",1,[["RandomList","Specified",3,["scam_epoch","sweetcorn_epoch","water_epoch","honey_epoch","ItemSodaMocha","ItemSodaOrangeSherbet","ItemSodaPurple","ItemSodaRbull","ItemSodaBurst","CookedSheep_EPOCH","CookedChicken_EPOCH","CookedRabbit_EPOCH","sardines_epoch","meatballs_epoch"]]]],"No",[],5,10,60,90]]]],[0,["NoArea"]]]]] "
+"ZEVMission - ZEVMissionStart selected location data ["Specified",300,44,[9249,15874,0],[0,["NoBuildings"]],[0,["NoVehicles"]],[1,[[1,"RESISTANCE","COLUMN","BuildGuard",1,1,4,["Specified",[9,7,0],138],["I_Soldier_EPOCH","Random",[141,3422,0],"CARELESS","RED",1,["Arifle_MX_GL_F",3,"NONE",0,[],"NONE","NONE"],[],["None",["NONE",0,["NoItems"]],["NONE",0,["NoItems"]],[]],["Random",[["aimingAccuracy",0.6],["aimingShake",0.7],["aimingSpeed",0.8],["endurance",0.9],["spotDistance",0.8],["spotTime",0.7],["courage",0.9],["reloadSpeed",1],["commanding",1],["general",1]]],"Yes","Yes",[],"Yes",5,0,0,["None",["NONE",0,["NoItems"]],["NONE",0,["NoItems"]],[]],["V_F0_EPOCH",["NONE",0,["NoItems"]],["Specified",1,[["1Rnd_HE_Grenade_shell","Specified",5,[]]]],[]],["H_F0_EPOCH",[]],124],["Box_NATO_Wps_F","Random",[17,3515,0],132,"Yes",["NONE",0,["NoItems"]],["Specified",1,[["RandomList","Specified",3,["scam_epoch","sweetcorn_epoch","water_epoch","honey_epoch","ItemSodaMocha","ItemSodaOrangeSherbet","ItemSodaPurple","ItemSodaRbull","ItemSodaBurst","CookedSheep_EPOCH","CookedChicken_EPOCH","CookedRabbit_EPOCH","sardines_epoch","meatballs_epoch"]]]],"No",[],5,10,60,90]]]],[0,["NoArea"]]] "
+"ZEVMission - ZEVMissionStart locPosType:Specified, trigRadius:300, Radius:44, Pos:[9249,15874,0] "
+"ZEVMission - ZEVMissionStart _positions = [0,["NoArea"]]"
+"ZEVMission - ZEVMissionFindRunningMissionInRadius(Static = 1):  _this = [[9249,15874,0],300,1] "
+"ZEVMission - ZEVMissionFindRunningMissionInRadius(Static = 1):  _ZEVActiveMissionParm = [[[3825,11583,0],107,500,"All AI units dead"],[[9053,12016,0],85,500,"All AI units dead"],[[0,0,0],0,0],[[0,0,0],0,0],[[0,0,0],0,0],[[0,0,0],0,0],[[0,0,0],0,0]] "
+"ZEVMission - ZEVMissionFindRunningMissionInRadius(Static = 1):  _ZEVMissionInProgress = [1,1,0,0,0,0,0] "
+"ZEVMission - ZEVMissionSetMissionInProgress(Static = 1): mission idx = 2"
+"ZEVMission - ZEVMissionSetMissionInProgress(Static = 1): ZEVMissionInProgress = [0,0]"
+"ZEVMission - ZEVMissionSetMissionInProgress(Static = 1): ZEVStaticMissionInProgress = [1,1,0,0,0,0,0]"
+"ZEVMission - ZEVMissionSetMissionInProgress(Static = 1): ZEVMissionInProgress = [0,0]"
+"ZEVMission - ZEVMissionSetMissionInProgress(Static = 1): ZEVStaticMissionInProgress = [1,1,1,0,0,0,0]"
+"ZEVMission - ZEVMissionStart show mission start message: Mission start message "
+"ZEVMission - ZEVMissionStart:  start waiting for player will be near 300m from [9249,15874,0]"
+"ZEVMission - ZEVStaticMissionLoop(Static = 1): try to start mission 3 "
+"ZEVMission - ZEVStaticMissionLoop(Static = 1): mission 3 was selected "
+"ZEVMission: starting script - ZEVMissionStart  "
+"ZEVMission - ZEVMissionStart reading parameters of mission  3 "
+"ZEVMission: _missionName = Area security 8 "
+"ZEVMission: _missionStartMessage = Mission start message "
+"ZEVMission: _missionEndMessage =  "
+"ZEVMission: _missionFailMessage =  "
+"ZEVMission: _missionTimeLimit = 600 "
+"ZEVMission: _locationsData = [1,[["Specified",300,19,[10316,19078,0],[0,["NoBuildings"]],[0,["NoVehicles"]],[1,[[1,"RESISTANCE","COLUMN","BuildGuard",1,1,3,["Specified",[-8,-1,0],121],["I_Soldier_EPOCH","Random",[-926,218,0],"CARELESS","RED",1,["Arifle_MX_GL_F",3,"NONE",0,[],"NONE","NONE"],[],["None",["NONE",0,["NoItems"]],["NONE",0,["NoItems"]],[]],["Random",[["aimingAccuracy",0.6],["aimingShake",0.7],["aimingSpeed",0.8],["endurance",0.9],["spotDistance",0.8],["spotTime",0.7],["courage",0.9],["reloadSpeed",1],["commanding",1],["general",1]]],"Yes","Yes",[],"Yes",5,0,0,["None",["NONE",0,["NoItems"]],["NONE",0,["NoItems"]],[]],["V_F0_EPOCH",["NONE",0,["NoItems"]],["Specified",1,[["1Rnd_HE_Grenade_shell","Specified",5,[]]]],[]],["H_F0_EPOCH",[]],124],["Box_NATO_Wps_F","Random",[-1050,311,0],132,"Yes",["NONE",0,["NoItems"]],["Specified",1,[["RandomList","Specified",3,["CookedChicken_EPOCH","CookedRabbit_EPOCH","sardines_epoch","meatballs_epoch","scam_epoch","sweetcorn_epoch","water_epoch","honey_epoch","ItemSodaMocha","ItemSodaPurple","ItemSodaOrangeSherbet","ItemSodaRbull","ItemSodaBurst","CookedSheep_EPOCH"]]]],"No",[],5,10,60,90]]]],[0,["NoArea"]]]]] "
+"ZEVMission - ZEVMissionStart selected location data ["Specified",300,19,[10316,19078,0],[0,["NoBuildings"]],[0,["NoVehicles"]],[1,[[1,"RESISTANCE","COLUMN","BuildGuard",1,1,3,["Specified",[-8,-1,0],121],["I_Soldier_EPOCH","Random",[-926,218,0],"CARELESS","RED",1,["Arifle_MX_GL_F",3,"NONE",0,[],"NONE","NONE"],[],["None",["NONE",0,["NoItems"]],["NONE",0,["NoItems"]],[]],["Random",[["aimingAccuracy",0.6],["aimingShake",0.7],["aimingSpeed",0.8],["endurance",0.9],["spotDistance",0.8],["spotTime",0.7],["courage",0.9],["reloadSpeed",1],["commanding",1],["general",1]]],"Yes","Yes",[],"Yes",5,0,0,["None",["NONE",0,["NoItems"]],["NONE",0,["NoItems"]],[]],["V_F0_EPOCH",["NONE",0,["NoItems"]],["Specified",1,[["1Rnd_HE_Grenade_shell","Specified",5,[]]]],[]],["H_F0_EPOCH",[]],124],["Box_NATO_Wps_F","Random",[-1050,311,0],132,"Yes",["NONE",0,["NoItems"]],["Specified",1,[["RandomList","Specified",3,["CookedChicken_EPOCH","CookedRabbit_EPOCH","sardines_epoch","meatballs_epoch","scam_epoch","sweetcorn_epoch","water_epoch","honey_epoch","ItemSodaMocha","ItemSodaPurple","ItemSodaOrangeSherbet","ItemSodaRbull","ItemSodaBurst","CookedSheep_EPOCH"]]]],"No",[],5,10,60,90]]]],[0,["NoArea"]]] "
+"ZEVMission - ZEVMissionStart locPosType:Specified, trigRadius:300, Radius:19, Pos:[10316,19078,0] "
+"ZEVMission - ZEVMissionStart _positions = [0,["NoArea"]]"
+"ZEVMission - ZEVMissionFindRunningMissionInRadius(Static = 1):  _this = [[10316,19078,0],300,1] "
+"ZEVMission - ZEVMissionFindRunningMissionInRadius(Static = 1):  _ZEVActiveMissionParm = [[[3825,11583,0],107,500,"All AI units dead"],[[9053,12016,0],85,500,"All AI units dead"],[[9249,15874,0],44,300,"All AI units dead"],[[0,0,0],0,0],[[0,0,0],0,0],[[0,0,0],0,0],[[0,0,0],0,0]] "
+"ZEVMission - ZEVMissionFindRunningMissionInRadius(Static = 1):  _ZEVMissionInProgress = [1,1,1,0,0,0,0] "
+"ZEVMission - ZEVMissionSetMissionInProgress(Static = 1): mission idx = 3"
+"ZEVMission - ZEVMissionSetMissionInProgress(Static = 1): ZEVMissionInProgress = [0,0]"
+"ZEVMission - ZEVMissionSetMissionInProgress(Static = 1): ZEVStaticMissionInProgress = [1,1,1,0,0,0,0]"
+"ZEVMission - ZEVMissionSetMissionInProgress(Static = 1): ZEVMissionInProgress = [0,0]"
+"ZEVMission - ZEVMissionSetMissionInProgress(Static = 1): ZEVStaticMissionInProgress = [1,1,1,1,0,0,0]"
+"ZEVMission - ZEVMissionStart show mission start message: Mission start message "
+"ZEVMission - ZEVMissionStart:  start waiting for player will be near 300m from [10316,19078,0]"
+Road not found
+"[blckeagls] loading version 4-27-2015 build Build 3.0 ...... >>"
+"[blckeagls] Configurations Loaded"
+"ZEVMission: start main loop:"
+"#SEM: Initialize Simple Epoch Missions"
+Attempt to override final function - bis_fnc_init
+"ZEVMission - ZEVStaticMissionLoop(Static = 1): try to start mission 4 "
+"ZEVMission - ZEVMissionLoop(Static = 0): starting script"
+"ZEVMission - ZEVMissionLoop(Static = 0): running missions count = 0 "
+"ZEVMission - ZEVMissionLoop(Static = 0): try to start mission 1 "
+"ZEVMission - ZEVMissionLoop(Static = 0): mission 1 was selected "
+"ZEVMission - ZEVMissionLoop(Static = 0): waiting 30 sec for new mission start"
+"ZEVMission - ZEVStaticMissionLoop(Static = 1): mission 4 was selected "
+"ZEVMission: starting script - ZEVMissionStart  "
+"ZEVMission - ZEVMissionStart reading parameters of mission  1 "
+"ZEVMission: _missionName = Convoy "
+"ZEVMission: _missionStartMessage = Convoy discovered, carrying building materials and weapons "
+"ZEVMission: _missionEndMessage =  "
+"ZEVMission: _missionFailMessage = The convoy escaped "
+"ZEVMission: _missionTimeLimit = 2400 "
+"ZEVMission: _locationsData = [1,[["Specified",750,46,[4612,14136,0],[0,["NoBuildings"]],[0,["NoVehicles"]],[1,[[4,"RESISTANCE","COLUMN","Vehicle convoy group",["Specified",288,[["MOVE","Specified",[9,9,0],"LIMITED","SAFE","YELLOW",10,"COLUMN",0,0,0],["MOVE","Specified",[63,54,0],"LIMITED","SAFE","YELLOW",10,"COLUMN",0,0,0],["MOVE","Specified",[232,233,0],"LIMITED","SAFE","YELLOW",10,"COLUMN",0,0,0],["MOVE","Specified",[244,244,0],"LIMITED","SAFE","YELLOW",10,"COLUMN",0,0,0],["MOVE","Specified",[254,251,0],"LIMITED","SAFE","YELLOW",10,"COLUMN",0.01,0.02,0.03],["MOVE","Specified",[336,280,0],"LIMITED","SAFE","YELLOW",10,"COLUMN",0.01,0.02,0.03],["MOVE","Specified",[445,331,0],"LIMITED","SAFE","YELLOW",10,"COLUMN",0.01,0.02,0.03],["MOVE","Specified",[732,377,0],"LIMITED","SAFE","YELLOW",10,"COLUMN",0,0,0],["MOVE","Specified",[752,387,0],"LIMITED","SAFE","YELLOW",10,"COLUMN",0.01,0.02,0.03],["MOVE","Specified",[948,558,0],"LIMITED","SAFE","YELLOW",10,"COLUMN",0.01,0.02,0.03],["MOVE","Specified",[962,567,0],"LIMITED","SAFE","YELLOW",10,"COLUMN",0.01,0.02,0.03],["MOVE","Specified",[1196,661,0],"LIMITED","SAFE","YELLOW",10,"COLUMN",0.01,0.02,0.03],["MOVE","Specified",[1277,675,0],"LIMITED","SAFE","YELLOW",10,"COLUMN",0.01,0.02,0.03],["MOVE","Specified",[1298,681,0],"LIMITED","SAFE","YELLOW",10,"COLUMN",0.01,0.02,0.03],["MOVE","Specified",[1314,689,0],"LIMITED","SAFE","YELLOW",10,"COLUMN",0.01,0.02,0.03],["MOVE","Specified",[1705,1010,0],"LIMITED","SAFE","YELLOW",10,"COLUMN",0.01,0.02,0.03],["MOVE","Specified",[2146,1278,0],"LIMITED","SAFE","YELLOW",10,"COLUMN",0.01,0.02,0.03],["MOVE","Specified",[2142,1275,0],"LIMITED","SAFE","YELLOW",10,"COLUMN",0,0,0],["MOVE","Specified",[2158,1287,0],"LIMITED","SAFE","YELLOW",10,"COLUMN",0.01,0.02,0.03],["MOVE","Specified",[2167,1298,0],"LIMITED","SAFE","YELLOW",10,"COLUMN",0.01,0.02,0.03],["MOVE","Specified",[2170,1318,0],"LIMITED","SAFE","YELLOW",10,"COLUMN",0.01,0.02,0.03],["MOVE","Specified",[2182,1782,0],"LIMITED","SAFE","YELLOW",10,"COLUMN",0.01,0.02,0.03],["MOVE","Specified",[2188,1803,0],"LIMITED","SAFE","YELLOW",10,"COLUMN",0.01,0.02,0.03],["MOVE","Specified",[2198,1818,0],"LIMITED","SAFE","YELLOW",10,"COLUMN",0.01,0.02,0.03],["MOVE","Specified",[2210,1831,0],"LIMITED","SAFE","YELLOW",10,"COLUMN",0.01,0.02,0.03],["MOVE","Specified",[2224,1841,0],"LIMITED","SAFE","YELLOW",10,"COLUMN",0.01,0.02,0.03],["MOVE","Specified",[2290,1871,0],"LIMITED","SAFE","YELLOW",10,"COLUMN",0.01,0.02,0.03],["MOVE","Specified",[2314,1878,0],"LIMITED","SAFE","YELLOW",10,"COLUMN",0.01,0.02,0.03],["MOVE","Specified",[2378,1888,0],"LIMITED","SAFE","YELLOW",10,"COLUMN",0.01,0.02,0.03],["MOVE","Specified",[2395,1895,0],"LIMITED","SAFE","YELLOW",10,"COLUMN",0.01,0.02,0.03],["MOVE","Specified",[2406,1892,0],"LIMITED","SAFE","YELLOW",10,"COLUMN",0.01,0.02,0.03],["MOVE","Specified",[2514,1911,0],"LIMITED","SAFE","YELLOW",10,"COLUMN",0.01,0.02,0.03],["MOVE","Specified",[2525,1912,0],"LIMITED","SAFE","YELLOW",10,"COLUMN",0,0,0],["MOVE","Specified",[2538,1918,0],"LIMITED","SAFE","YELLOW",10,"COLUMN",0.01,0.02,0.03],["MOVE","Specified",[2888,2065,0],"LIMITED","SAFE","YELLOW",10,"COLUMN",0.01,0.02,0.03],["MOVE","Specified",[2914,2071,0],"LIMITED","SAFE","YELLOW",10,"COLUMN",0.01,0.02,0.03],["MOVE","Specified",[2940,2071,0],"LIMITED","SAFE","YELLOW",10,"COLUMN",0.01,0.02,0.03],["MOVE","Specified",[3133,2029,0],"LIMITED","SAFE","YELLOW",10,"COLUMN",0.01,0.02,0.03],["MOVE","Specified",[3152,2020,0],"LIMITED","SAFE","YELLOW",10,"COLUMN",0.01,0.02,0.03],["MOVE","Specified",[3252,1924,0],"LIMITED","SAFE","YELLOW",10,"COLUMN",0.01,0.02,0.03],["MOVE","Specified",[3407,1833,0],"LIMITED","SAFE","YELLOW",10,"COLUMN",0.01,0.02,0.03],["MOVE","Specified",[3417,1828,0],"LIMITED","SAFE","YELLOW",10,"COLUMN",0,0,0],["MOVE","Specified",[3435,1817,0],"LIMITED","SAFE","YELLOW",10,"COLUMN",0.01,0.02,0.03],["MOVE","Specified",[3807,1618,0],"LIMITED","SAFE","YELLOW",10,"COLUMN",0.01,0.02,0.03],["MOVE","Specified",[3828,1615,0],"LIMITED","SAFE","YELLOW",10,"COLUMN",0.01,0.02,0.03],["MOVE","Specified",[3850,1616,0],"LIMITED","SAFE","YELLOW",1
+"ZEVMission: starting script - ZEVMissionStart  "
+"ZEVMission - ZEVMissionStart reading parameters of mission  4 "
+"ZEVMission: _missionName = Area security 10 "
+"ZEVMission: _missionStartMessage = Mission start message "
+"ZEVMission: _missionEndMessage =  "
+"ZEVMission: _missionFailMessage =  "
+"ZEVMission: _missionTimeLimit = 600 "
+"ZEVMission: _locationsData = [1,[["Specified",300,46,[14611,20783,0],[0,["NoBuildings"]],[0,["NoVehicles"]],[1,[[1,"RESISTANCE","COLUMN","BuildGuard",1,1,4,["Specified",[6,4,0],89],["I_Soldier_EPOCH","Random",[-5221,-1487,0],"CARELESS","RED",1,["Arifle_MX_GL_F",3,"NONE",0,[],"NONE","NONE"],[],["None",["NONE",0,["NoItems"]],["NONE",0,["NoItems"]],[]],["Random",[["aimingAccuracy",0.6],["aimingShake",0.7],["aimingSpeed",0.8],["endurance",0.9],["spotDistance",0.8],["spotTime",0.7],["courage",0.9],["reloadSpeed",1],["commanding",1],["general",1]]],"Yes","Yes",[],"Yes",5,0,0,["None",["NONE",0,["NoItems"]],["NONE",0,["NoItems"]],[]],["V_F0_EPOCH",["NONE",0,["NoItems"]],["Specified",1,[["1Rnd_HE_Grenade_shell","Specified",5,[]]]],[]],["H_F0_EPOCH",[]],124],["Box_NATO_Wps_F","Random",[-5345,-1394,0],132,"Yes",["NONE",0,["NoItems"]],["Specified",1,[["RandomList","Specified",3,["CookedChicken_EPOCH","CookedRabbit_EPOCH","sardines_epoch","meatballs_epoch","scam_epoch","sweetcorn_epoch","water_epoch","honey_epoch","ItemSodaMocha","ItemSodaPurple","ItemSodaOrangeSherbet","ItemSodaRbull","ItemSodaBurst","CookedSheep_EPOCH"]]]],"No",[],5,10,60,90]]]],[0,["NoArea"]]]]] "
+"ZEVMission - ZEVMissionStart selected location data ["Specified",300,46,[14611,20783,0],[0,["NoBuildings"]],[0,["NoVehicles"]],[1,[[1,"RESISTANCE","COLUMN","BuildGuard",1,1,4,["Specified",[6,4,0],89],["I_Soldier_EPOCH","Random",[-5221,-1487,0],"CARELESS","RED",1,["Arifle_MX_GL_F",3,"NONE",0,[],"NONE","NONE"],[],["None",["NONE",0,["NoItems"]],["NONE",0,["NoItems"]],[]],["Random",[["aimingAccuracy",0.6],["aimingShake",0.7],["aimingSpeed",0.8],["endurance",0.9],["spotDistance",0.8],["spotTime",0.7],["courage",0.9],["reloadSpeed",1],["commanding",1],["general",1]]],"Yes","Yes",[],"Yes",5,0,0,["None",["NONE",0,["NoItems"]],["NONE",0,["NoItems"]],[]],["V_F0_EPOCH",["NONE",0,["NoItems"]],["Specified",1,[["1Rnd_HE_Grenade_shell","Specified",5,[]]]],[]],["H_F0_EPOCH",[]],124],["Box_NATO_Wps_F","Random",[-5345,-1394,0],132,"Yes",["NONE",0,["NoItems"]],["Specified",1,[["RandomList","Specified",3,["CookedChicken_EPOCH","CookedRabbit_EPOCH","sardines_epoch","meatballs_epoch","scam_epoch","sweetcorn_epoch","water_epoch","honey_epoch","ItemSodaMocha","ItemSodaPurple","ItemSodaOrangeSherbet","ItemSodaRbull","ItemSodaBurst","CookedSheep_EPOCH"]]]],"No",[],5,10,60,90]]]],[0,["NoArea"]]] "
+"ZEVMission - ZEVMissionStart locPosType:Specified, trigRadius:300, Radius:46, Pos:[14611,20783,0] "
+"ZEVMission - ZEVMissionStart _positions = [0,["NoArea"]]"
+"ZEVMission - ZEVMissionFindRunningMissionInRadius(Static = 1):  _this = [[14611,20783,0],300,1] "
+"ZEVMission - ZEVMissionFindRunningMissionInRadius(Static = 1):  _ZEVActiveMissionParm = [[[3825,11583,0],107,500,"All AI units dead"],[[9053,12016,0],85,500,"All AI units dead"],[[9249,15874,0],44,300,"All AI units dead"],[[10316,19078,0],19,300,"All AI units dead"],[[0,0,0],0,0],[[0,0,0],0,0],[[0,0,0],0,0]] "
+"ZEVMission - ZEVMissionFindRunningMissionInRadius(Static = 1):  _ZEVMissionInProgress = [1,1,1,1,0,0,0] "
+"ZEVMission - ZEVMissionSetMissionInProgress(Static = 1): mission idx = 4"
+"ZEVMission - ZEVMissionSetMissionInProgress(Static = 1): ZEVMissionInProgress = [0,0]"
+"ZEVMission - ZEVMissionSetMissionInProgress(Static = 1): ZEVStaticMissionInProgress = [1,1,1,1,0,0,0]"
+"ZEVMission - ZEVMissionSetMissionInProgress(Static = 1): ZEVMissionInProgress = [0,0]"
+"ZEVMission - ZEVMissionSetMissionInProgress(Static = 1): ZEVStaticMissionInProgress = [1,1,1,1,1,0,0]"
+"ZEVMission - ZEVMissionStart show mission start message: Mission start message "
+"ZEVMission - ZEVMissionStart:  start waiting for player will be near 300m from [14611,20783,0]"
+"ZEVMission - ZEVMissionStart selected location data ["Specified",750,46,[4612,14136,0],[0,["NoBuildings"]],[0,["NoVehicles"]],[1,[[4,"RESISTANCE","COLUMN","Vehicle convoy group",["Specified",288,[["MOVE","Specified",[9,9,0],"LIMITED","SAFE","YELLOW",10,"COLUMN",0,0,0],["MOVE","Specified",[63,54,0],"LIMITED","SAFE","YELLOW",10,"COLUMN",0,0,0],["MOVE","Specified",[232,233,0],"LIMITED","SAFE","YELLOW",10,"COLUMN",0,0,0],["MOVE","Specified",[244,244,0],"LIMITED","SAFE","YELLOW",10,"COLUMN",0,0,0],["MOVE","Specified",[254,251,0],"LIMITED","SAFE","YELLOW",10,"COLUMN",0.01,0.02,0.03],["MOVE","Specified",[336,280,0],"LIMITED","SAFE","YELLOW",10,"COLUMN",0.01,0.02,0.03],["MOVE","Specified",[445,331,0],"LIMITED","SAFE","YELLOW",10,"COLUMN",0.01,0.02,0.03],["MOVE","Specified",[732,377,0],"LIMITED","SAFE","YELLOW",10,"COLUMN",0,0,0],["MOVE","Specified",[752,387,0],"LIMITED","SAFE","YELLOW",10,"COLUMN",0.01,0.02,0.03],["MOVE","Specified",[948,558,0],"LIMITED","SAFE","YELLOW",10,"COLUMN",0.01,0.02,0.03],["MOVE","Specified",[962,567,0],"LIMITED","SAFE","YELLOW",10,"COLUMN",0.01,0.02,0.03],["MOVE","Specified",[1196,661,0],"LIMITED","SAFE","YELLOW",10,"COLUMN",0.01,0.02,0.03],["MOVE","Specified",[1277,675,0],"LIMITED","SAFE","YELLOW",10,"COLUMN",0.01,0.02,0.03],["MOVE","Specified",[1298,681,0],"LIMITED","SAFE","YELLOW",10,"COLUMN",0.01,0.02,0.03],["MOVE","Specified",[1314,689,0],"LIMITED","SAFE","YELLOW",10,"COLUMN",0.01,0.02,0.03],["MOVE","Specified",[1705,1010,0],"LIMITED","SAFE","YELLOW",10,"COLUMN",0.01,0.02,0.03],["MOVE","Specified",[2146,1278,0],"LIMITED","SAFE","YELLOW",10,"COLUMN",0.01,0.02,0.03],["MOVE","Specified",[2142,1275,0],"LIMITED","SAFE","YELLOW",10,"COLUMN",0,0,0],["MOVE","Specified",[2158,1287,0],"LIMITED","SAFE","YELLOW",10,"COLUMN",0.01,0.02,0.03],["MOVE","Specified",[2167,1298,0],"LIMITED","SAFE","YELLOW",10,"COLUMN",0.01,0.02,0.03],["MOVE","Specified",[2170,1318,0],"LIMITED","SAFE","YELLOW",10,"COLUMN",0.01,0.02,0.03],["MOVE","Specified",[2182,1782,0],"LIMITED","SAFE","YELLOW",10,"COLUMN",0.01,0.02,0.03],["MOVE","Specified",[2188,1803,0],"LIMITED","SAFE","YELLOW",10,"COLUMN",0.01,0.02,0.03],["MOVE","Specified",[2198,1818,0],"LIMITED","SAFE","YELLOW",10,"COLUMN",0.01,0.02,0.03],["MOVE","Specified",[2210,1831,0],"LIMITED","SAFE","YELLOW",10,"COLUMN",0.01,0.02,0.03],["MOVE","Specified",[2224,1841,0],"LIMITED","SAFE","YELLOW",10,"COLUMN",0.01,0.02,0.03],["MOVE","Specified",[2290,1871,0],"LIMITED","SAFE","YELLOW",10,"COLUMN",0.01,0.02,0.03],["MOVE","Specified",[2314,1878,0],"LIMITED","SAFE","YELLOW",10,"COLUMN",0.01,0.02,0.03],["MOVE","Specified",[2378,1888,0],"LIMITED","SAFE","YELLOW",10,"COLUMN",0.01,0.02,0.03],["MOVE","Specified",[2395,1895,0],"LIMITED","SAFE","YELLOW",10,"COLUMN",0.01,0.02,0.03],["MOVE","Specified",[2406,1892,0],"LIMITED","SAFE","YELLOW",10,"COLUMN",0.01,0.02,0.03],["MOVE","Specified",[2514,1911,0],"LIMITED","SAFE","YELLOW",10,"COLUMN",0.01,0.02,0.03],["MOVE","Specified",[2525,1912,0],"LIMITED","SAFE","YELLOW",10,"COLUMN",0,0,0],["MOVE","Specified",[2538,1918,0],"LIMITED","SAFE","YELLOW",10,"COLUMN",0.01,0.02,0.03],["MOVE","Specified",[2888,2065,0],"LIMITED","SAFE","YELLOW",10,"COLUMN",0.01,0.02,0.03],["MOVE","Specified",[2914,2071,0],"LIMITED","SAFE","YELLOW",10,"COLUMN",0.01,0.02,0.03],["MOVE","Specified",[2940,2071,0],"LIMITED","SAFE","YELLOW",10,"COLUMN",0.01,0.02,0.03],["MOVE","Specified",[3133,2029,0],"LIMITED","SAFE","YELLOW",10,"COLUMN",0.01,0.02,0.03],["MOVE","Specified",[3152,2020,0],"LIMITED","SAFE","YELLOW",10,"COLUMN",0.01,0.02,0.03],["MOVE","Specified",[3252,1924,0],"LIMITED","SAFE","YELLOW",10,"COLUMN",0.01,0.02,0.03],["MOVE","Specified",[3407,1833,0],"LIMITED","SAFE","YELLOW",10,"COLUMN",0.01,0.02,0.03],["MOVE","Specified",[3417,1828,0],"LIMITED","SAFE","YELLOW",10,"COLUMN",0,0,0],["MOVE","Specified",[3435,1817,0],"LIMITED","SAFE","YELLOW",10,"COLUMN",0.01,0.02,0.03],["MOVE","Specified",[3807,1618,0],"LIMITED","SAFE","YELLOW",10,"COLUMN",0.01,0.02,0.03],["MOVE","Specified",[3828,1615,0],"LIMITED","SAFE","YELLOW",10,"COLUMN",0.01,0.02,0.03],["MOVE","Specified",[3850,1616,0],"LIMITED
+"ZEVMission - ZEVMissionStart locPosType:Specified, trigRadius:750, Radius:46, Pos:[4612,14136,0] "
+"ZEVMission - ZEVMissionStart _positions = [0,["NoArea"]]"
+"ZEVMission - ZEVMissionFindRunningMissionInRadius(Static = 0):  _this = [[4612,14136,0],750,0] "
+"ZEVMission - ZEVMissionFindRunningMissionInRadius(Static = 0):  _ZEVActiveMissionParm = [[[0,0,0],0,0],[[0,0,0],0,0]] "
+"ZEVMission - ZEVMissionFindRunningMissionInRadius(Static = 0):  _ZEVMissionInProgress = [0,0] "
+"ZEVMission - ZEVMissionSetMissionInProgress(Static = 0): mission idx = 1"
+"ZEVMission - ZEVMissionSetMissionInProgress(Static = 0): ZEVMissionInProgress = [0,0]"
+"ZEVMission - ZEVMissionSetMissionInProgress(Static = 0): ZEVStaticMissionInProgress = [1,1,1,1,1,0,0]"
+"ZEVMission - ZEVMissionSetMissionInProgress(Static = 0): ZEVMissionInProgress = [0,1]"
+"ZEVMission - ZEVMissionSetMissionInProgress(Static = 0): ZEVStaticMissionInProgress = [1,1,1,1,1,0,0]"
+"ZEVMission - ZEVMissionStart add map marker at [4612,14136,0] "
+"ZEVMission - ZEVMissionStart show mission start message: Convoy discovered, carrying building materials and weapons "
+"ZEVMission - ZEVMissionStart:  start waiting for player will be near 750m from [4612,14136,0]"
+"ZEVMission - ZEVMissionStart:  somebody in trigger zone or  mission is timed out _ (line 156)"
+"ZEVMission - ZEVMissionStart:  _playerCome = true"
+"ZEVMission - ZEVMissionStart:  _cleanMission = false"
+"ZEVMission - ZEVMissionAddMarker:  _this = [[4612,14136,0],"Convoy",1,138,0,"ColorRed"] "
+"ZEVMission - ZEVMissionAddMarker:  _missionParms = [[4612,14136,0],46,750,"All AI units dead"] "
+"ZEVMission - ZEVMissionAddMarker:  _isMissionRunning = 1 "
+"ZEVMission - ZEVMissionMonitor (Static = 0) : start mission Convoy"
+"ZEVMission - ZEVMissionMonitor(Static = 0):  somebody in trigger zone , create all mission stuff at [4612,14136,0]"
+"ZEVMission - ZEVMissionMonitor:  adding life forces _"
+"ZEVMissionSelectPos: [4612,14136,0]"
+"ZEVMission - AddLoot  _vehicle = 6cbdab00# 1814758: offroad_01_hmg_f.p3d "
+"ZEVMission - AddLoot  _lootKind = weapon "
+"ZEVMission - AddLoot  _vehicleLootType = Specified "
+"ZEVMission - AddLoot  _vehicleLootItemsQty = 5 "
+"ZEVMission - AddLoot  _vehicleLootItems = [["RandomList","Specified",2,["M14_EPOCH","arifle_MXM_F","arifle_MXM_Black_F","M14Grn_EPOCH","srifle_EBR_F","srifle_DMR_01_F"]],["RandomList","Specified",2,["Arifle_Katiba_GL_F","Arifle_Mk20_GL_F","Arifle_Mk20_GL_plain_F","Arifle_MX_GL_Black_F","Arifle_TRG21_GL_F"]],["RandomList","Specified",2,["optic_SOS","optic_LRPS"]],["Rangefinder","Specified",2,[]],["ChainSaw","Specified",1,[]]] "
+"ZEVMission - AddLoot  get Specified selection  "
+"ZEVMission - _vehicleLootItemName  = RandomList "
+"ZEVMission - _vehicleLootCountType  = Specified "
+"ZEVMission - _vehicleLootQty  = 2 "
+"ZEVMission - add weapon /  qty = arifle_MXM_F / 2"
+"ZEVMission - add weapon /  qty = arifle_MXM_F / 2"
+"ZEVMission - _vehicleLootItemName  = RandomList "
+"ZEVMission - _vehicleLootCountType  = Specified "
+"ZEVMission - _vehicleLootQty  = 2 "
+"ZEVMission - add weapon /  qty = Arifle_Mk20_GL_F / 2"
+"ZEVMission - add weapon /  qty = Arifle_TRG21_GL_F / 2"
+"ZEVMission - _vehicleLootItemName  = RandomList "
+"ZEVMission - _vehicleLootCountType  = Specified "
+"ZEVMission - _vehicleLootQty  = 2 "
+"ZEVMission - add weapon /  qty = optic_SOS / 2"
+"ZEVMission - add weapon /  qty = optic_LRPS / 2"
+"ZEVMission - _vehicleLootItemName  = Rangefinder "
+"ZEVMission - _vehicleLootCountType  = Specified "
+"ZEVMission - _vehicleLootQty  = 2 "
+"ZEVMission - add weapon /  qty = Rangefinder / 2"
+"ZEVMission - add weapon /  qty = Rangefinder / 2"
+"ZEVMission - _vehicleLootItemName  = ChainSaw "
+"ZEVMission - _vehicleLootCountType  = Specified "
+"ZEVMission - _vehicleLootQty  = 1 "
+"ZEVMission - add weapon /  qty = ChainSaw / 1"
+Cannot load surface info ca\data\Penetration\castIronPlate.bisurf
+"ZEVMission - AddLoot  _vehicle = 6cbdab00# 1814758: offroad_01_hmg_f.p3d "
+"ZEVMission - AddLoot  _lootKind = magazine "
+"ZEVMission - AddLoot  _vehicleLootType = Specified "
+"ZEVMission - AddLoot  _vehicleLootItemsQty = 6 "
+"ZEVMission - AddLoot  _vehicleLootItems = [["1Rnd_HE_Grenade_shell","Specified",10,[]],["FAK","Specified",8,[]],["ItemMixOil","Specified",2,[]],["jerrycan_epoch","Specified",2,[]],["EnergyPackLg","Specified",10,[]],["MortarBucket","Specified",20,[]],["CircuitParts","Specified",4,[]],["KitStudWall","Specified",15,[]],["KitWoodFloor","Specified",10,[]],["KitFoundation","Specified",5,[]],["KitCinderWall","Specified",20,[]],["KitPlotPole","Specified",2,[]],["ItemCorrugatedLg","Specified",10,[]],["PartPlankPack","Specified",10,[]]] "
+"ZEVMission - AddLoot  get Specified selection  "
+"ZEVMission - _vehicleLootItemName  = 1Rnd_HE_Grenade_shell "
+"ZEVMission - _vehicleLootCountType  = Specified "
+"ZEVMission - _vehicleLootQty  = 10 "
+"ZEVMission - add item /  qty = 1Rnd_HE_Grenade_shell / 10"
+"ZEVMission - add item /  qty = 1Rnd_HE_Grenade_shell / 10"
+"ZEVMission - add item /  qty = 1Rnd_HE_Grenade_shell / 10"
+"ZEVMission - add item /  qty = 1Rnd_HE_Grenade_shell / 10"
+"ZEVMission - add item /  qty = 1Rnd_HE_Grenade_shell / 10"
+"ZEVMission - add item /  qty = 1Rnd_HE_Grenade_shell / 10"
+"ZEVMission - add item /  qty = 1Rnd_HE_Grenade_shell / 10"
+"ZEVMission - add item /  qty = 1Rnd_HE_Grenade_shell / 10"
+"ZEVMission - add item /  qty = 1Rnd_HE_Grenade_shell / 10"
+"ZEVMission - add item /  qty = 1Rnd_HE_Grenade_shell / 10"
+"ZEVMission - _vehicleLootItemName  = FAK "
+"ZEVMission - _vehicleLootCountType  = Specified "
+"ZEVMission - _vehicleLootQty  = 8 "
+"ZEVMission - add item /  qty = FAK / 8"
+"ZEVMission - add item /  qty = FAK / 8"
+"ZEVMission - add item /  qty = FAK / 8"
+"ZEVMission - add item /  qty = FAK / 8"
+"ZEVMission - add item /  qty = FAK / 8"
+"ZEVMission - add item /  qty = FAK / 8"
+"ZEVMission - add item /  qty = FAK / 8"
+"ZEVMission - add item /  qty = FAK / 8"
+"ZEVMission - _vehicleLootItemName  = ItemMixOil "
+"ZEVMission - _vehicleLootCountType  = Specified "
+"ZEVMission - _vehicleLootQty  = 2 "
+"ZEVMission - add item /  qty = ItemMixOil / 2"
+"ZEVMission - add item /  qty = ItemMixOil / 2"
+"ZEVMission - _vehicleLootItemName  = jerrycan_epoch "
+"ZEVMission - _vehicleLootCountType  = Specified "
+"ZEVMission - _vehicleLootQty  = 2 "
+"ZEVMission - add item /  qty = jerrycan_epoch / 2"
+"ZEVMission - add item /  qty = jerrycan_epoch / 2"
+"ZEVMission - _vehicleLootItemName  = EnergyPackLg "
+"ZEVMission - _vehicleLootCountType  = Specified "
+"ZEVMission - _vehicleLootQty  = 10 "
+"ZEVMission - add item /  qty = EnergyPackLg / 10"
+"ZEVMission - add item /  qty = EnergyPackLg / 10"
+"ZEVMission - add item /  qty = EnergyPackLg / 10"
+"ZEVMission - add item /  qty = EnergyPackLg / 10"
+"ZEVMission - add item /  qty = EnergyPackLg / 10"
+"ZEVMission - add item /  qty = EnergyPackLg / 10"
+"ZEVMission - add item /  qty = EnergyPackLg / 10"
+"ZEVMission - add item /  qty = EnergyPackLg / 10"
+"ZEVMission - add item /  qty = EnergyPackLg / 10"
+"ZEVMission - add item /  qty = EnergyPackLg / 10"
+"ZEVMission - _vehicleLootItemName  = MortarBucket "
+"ZEVMission - _vehicleLootCountType  = Specified "
+"ZEVMission - _vehicleLootQty  = 20 "
+"ZEVMission - add item /  qty = MortarBucket / 20"
+"ZEVMission - add item /  qty = MortarBucket / 20"
+"ZEVMission - add item /  qty = MortarBucket / 20"
+"ZEVMission - add item /  qty = MortarBucket / 20"
+"ZEVMission - add item /  qty = MortarBucket / 20"
+"ZEVMission - add item /  qty = MortarBucket / 20"
+"ZEVMission - add item /  qty = MortarBucket / 20"
+"ZEVMission - add item /  qty = MortarBucket / 20"
+"ZEVMission - add item /  qty = MortarBucket / 20"
+"ZEVMission - add item /  qty = MortarBucket / 20"
+"ZEVMission - add item /  qty = MortarBucket / 20"
+"ZEVMission - add item /  qty = MortarBucket / 20"
+"ZEVMission - add item /  qty = MortarBucket / 20"
+"ZEVMission - add item /  qty = MortarBucket / 20"
+"ZEVMission - add item /  qty = MortarBucket / 20"
+"ZEVMission - add item /  qty = MortarBucket / 20"
+"ZEVMission - add item /  qty = MortarBucket / 20"
+"ZEVMission - add item /  qty = MortarBucket / 20"
+"ZEVMission - add item /  qty = MortarBucket / 20"
+"ZEVMission - add item /  qty = MortarBucket / 20"
+"ZEVMission - _vehicleLootItemName  = CircuitParts "
+"ZEVMission - _vehicleLootCountType  = Specified "
+"ZEVMission - _vehicleLootQty  = 4 "
+"ZEVMission - add item /  qty = CircuitParts / 4"
+"ZEVMission - add item /  qty = CircuitParts / 4"
+"ZEVMission - add item /  qty = CircuitParts / 4"
+"ZEVMission - add item /  qty = CircuitParts / 4"
+"ZEVMission - _vehicleLootItemName  = KitStudWall "
+"ZEVMission - _vehicleLootCountType  = Specified "
+"ZEVMission - _vehicleLootQty  = 15 "
+"ZEVMission - add item /  qty = KitStudWall / 15"
+"ZEVMission - add item /  qty = KitStudWall / 15"
+"ZEVMission - add item /  qty = KitStudWall / 15"
+"ZEVMission - add item /  qty = KitStudWall / 15"
+"ZEVMission - add item /  qty = KitStudWall / 15"
+"ZEVMission - add item /  qty = KitStudWall / 15"
+"ZEVMission - add item /  qty = KitStudWall / 15"
+"ZEVMission - add item /  qty = KitStudWall / 15"
+"ZEVMission - add item /  qty = KitStudWall / 15"
+"ZEVMission - add item /  qty = KitStudWall / 15"
+"ZEVMission - add item /  qty = KitStudWall / 15"
+"ZEVMission - add item /  qty = KitStudWall / 15"
+"ZEVMission - add item /  qty = KitStudWall / 15"
+"ZEVMission - add item /  qty = KitStudWall / 15"
+"ZEVMission - add item /  qty = KitStudWall / 15"
+"ZEVMission - _vehicleLootItemName  = KitWoodFloor "
+"ZEVMission - _vehicleLootCountType  = Specified "
+"ZEVMission - _vehicleLootQty  = 10 "
+"ZEVMission - add item /  qty = KitWoodFloor / 10"
+"ZEVMission - add item /  qty = KitWoodFloor / 10"
+"ZEVMission - add item /  qty = KitWoodFloor / 10"
+"ZEVMission - add item /  qty = KitWoodFloor / 10"
+"ZEVMission - add item /  qty = KitWoodFloor / 10"
+"ZEVMission - add item /  qty = KitWoodFloor / 10"
+"ZEVMission - add item /  qty = KitWoodFloor / 10"
+"ZEVMission - add item /  qty = KitWoodFloor / 10"
+"ZEVMission - add item /  qty = KitWoodFloor / 10"
+"ZEVMission - add item /  qty = KitWoodFloor / 10"
+"ZEVMission - _vehicleLootItemName  = KitFoundation "
+"ZEVMission - _vehicleLootCountType  = Specified "
+"ZEVMission - _vehicleLootQty  = 5 "
+"ZEVMission - add item /  qty = KitFoundation / 5"
+"ZEVMission - add item /  qty = KitFoundation / 5"
+"ZEVMission - add item /  qty = KitFoundation / 5"
+"ZEVMission - add item /  qty = KitFoundation / 5"
+"ZEVMission - add item /  qty = KitFoundation / 5"
+"ZEVMission - _vehicleLootItemName  = KitCinderWall "
+"ZEVMission - _vehicleLootCountType  = Specified "
+"ZEVMission - _vehicleLootQty  = 20 "
+"ZEVMission - add item /  qty = KitCinderWall / 20"
+"ZEVMission - add item /  qty = KitCinderWall / 20"
+"ZEVMission - add item /  qty = KitCinderWall / 20"
+"ZEVMission - add item /  qty = KitCinderWall / 20"
+"ZEVMission - add item /  qty = KitCinderWall / 20"
+"ZEVMission - add item /  qty = KitCinderWall / 20"
+"ZEVMission - add item /  qty = KitCinderWall / 20"
+"ZEVMission - add item /  qty = KitCinderWall / 20"
+"ZEVMission - add item /  qty = KitCinderWall / 20"
+"ZEVMission - add item /  qty = KitCinderWall / 20"
+"ZEVMission - add item /  qty = KitCinderWall / 20"
+"ZEVMission - add item /  qty = KitCinderWall / 20"
+"ZEVMission - add item /  qty = KitCinderWall / 20"
+"ZEVMission - add item /  qty = KitCinderWall / 20"
+"ZEVMission - add item /  qty = KitCinderWall / 20"
+"ZEVMission - add item /  qty = KitCinderWall / 20"
+"ZEVMission - add item /  qty = KitCinderWall / 20"
+"ZEVMission - add item /  qty = KitCinderWall / 20"
+"ZEVMission - add item /  qty = KitCinderWall / 20"
+"ZEVMission - add item /  qty = KitCinderWall / 20"
+"ZEVMission - _vehicleLootItemName  = KitPlotPole "
+"ZEVMission - _vehicleLootCountType  = Specified "
+"ZEVMission - _vehicleLootQty  = 2 "
+"ZEVMission - add item /  qty = KitPlotPole / 2"
+"ZEVMission - add item /  qty = KitPlotPole / 2"
+"ZEVMission - _vehicleLootItemName  = ItemCorrugatedLg "
+"ZEVMission - _vehicleLootCountType  = Specified "
+"ZEVMission - _vehicleLootQty  = 10 "
+"ZEVMission - add item /  qty = ItemCorrugatedLg / 10"
+"ZEVMission - add item /  qty = ItemCorrugatedLg / 10"
+"ZEVMission - add item /  qty = ItemCorrugatedLg / 10"
+"ZEVMission - add item /  qty = ItemCorrugatedLg / 10"
+"ZEVMission - add item /  qty = ItemCorrugatedLg / 10"
+"ZEVMission - add item /  qty = ItemCorrugatedLg / 10"
+"ZEVMission - add item /  qty = ItemCorrugatedLg / 10"
+"ZEVMission - add item /  qty = ItemCorrugatedLg / 10"
+"ZEVMission - add item /  qty = ItemCorrugatedLg / 10"
+"ZEVMission - add item /  qty = ItemCorrugatedLg / 10"
+"ZEVMission - _vehicleLootItemName  = PartPlankPack "
+"ZEVMission - _vehicleLootCountType  = Specified "
+"ZEVMission - _vehicleLootQty  = 10 "
+"ZEVMission - add item /  qty = PartPlankPack / 10"
+"ZEVMission - add item /  qty = PartPlankPack / 10"
+"ZEVMission - add item /  qty = PartPlankPack / 10"
+"ZEVMission - add item /  qty = PartPlankPack / 10"
+"ZEVMission - add item /  qty = PartPlankPack / 10"
+"ZEVMission - add item /  qty = PartPlankPack / 10"
+"ZEVMission - add item /  qty = PartPlankPack / 10"
+"ZEVMission - add item /  qty = PartPlankPack / 10"
+"ZEVMission - add item /  qty = PartPlankPack / 10"
+"ZEVMission - add item /  qty = PartPlankPack / 10"
+"ZEV: Vehicle: 6cbdab00# 1814758: offroad_01_hmg_f.p3d,  GunnerSpots 1"
+"ZEVMission - AddUnit:  select skin I_Soldier_EPOCH"
+"ZEVMission - AddUnit:  selected skin I_Soldier_EPOCH"
+"ZEVMissionSelectPos: [4634.27,14157.7,0]"
+WARNING: Function 'name' - 6cbdab00# 1814758: offroad_01_hmg_f.p3d has no unit
+ - network id 2:1277
+WARNING: Function 'name' - 6cbdab00# 1814758: offroad_01_hmg_f.p3d has no unit
+ - network id 2:1277
+"ZEVMission - AddAIUnit: AI: [R Alpha 3-2,["I_Soldier_EPOCH","Random",[-4612,-14136,0],"COMBAT","RED",1,["Arifle_MX_GL_F",3,"NONE",0,[],"optic_Holosight_smg","NONE"],[],["None",["NONE",0,["NoItems"]],["NONE",0,["NoItems"]],[]],["Specified",[["aimingAccuracy",1],["aimingShake",1],["aimingSpeed",1],["endurance",1],["spotDistance",1],["spotTime",1],["courage",1],["reloadSpeed",1],["commanding",1],["general",1]]],"No","Yes",[],"Yes",5,0,0,["None",["NONE",0,["NoItems"]],["NONE",0,["NoItems"]],[]],["V_F0_EPOCH",["NONE",0,["NoItems"]],["Specified",1,[["1Rnd_HE_Grenade_shell","Random",1,[]]]],[]],["H_F0_EPOCH",[]],0]], initialOwner: 2"
+"ZEVMission - AddAIUnit: Creating AI unit by <NULL-object> at [4634.27,14157.7,0]. Result:R Alpha 3-2:1 | Weapon:["Arifle_MX_GL_F",3,"NONE",0,[],"optic_Holosight_smg","NONE"], Gear:[], Backpack: ["None",["NONE",0,["NoItems"]],["NONE",0,["NoItems"]],[]]"
+"ZEVMission - FillContainer:  _weaponloot: ["NONE",0,["NoItems"]] "
+"ZEVMission - FillContainer:  _magsLoot: ["Specified",1,[["1Rnd_HE_Grenade_shell","Random",1,[]]]] "
+"ZEVMission - FillContainer:  _spaceCheckFunc: (_this select 0) canAddItemToVest (_this select 1)"
+"ZEVMission - FillContainer:  _addItemFunc: (_this select 0) addItemToVest (_this select 1)"
+"ZEVMission - FillContainerWeapon:  _loot: ["NONE",0,["NoItems"]] "
+"ZEVMission - FillContainerWeapon:  _spaceCheckFunc: (_this select 0) canAddItemToVest (_this select 1) "
+"ZEVMission - FillContainerWeapon:  _addItemFunc: (_this select 0) canAddItemToVest (_this select 1) "
+"ZEVMission - FillContainerWeapon:  _spaceCheckFuncCode: {(_this select 0) canAddItemToVest (_this select 1)} "
+"ZEVMission - FillContainerWeapon:  _addItemFuncCode: {(_this select 0) addItemToVest (_this select 1)} "
+"ZEVMission - FillContainerWeapon:  _lootType: NONE "
+"ZEVMission - FillContainerWeapon:  _itemsQty: 0 "
+"ZEVMission - FillContainerWeapon:  _items: ["NoItems"] "
+"ZEVMission - FillContainerWeapon:  _loot: ["Specified",1,[["1Rnd_HE_Grenade_shell","Random",1,[]]]] "
+"ZEVMission - FillContainerWeapon:  _spaceCheckFunc: (_this select 0) canAddItemToVest (_this select 1) "
+"ZEVMission - FillContainerWeapon:  _addItemFunc: (_this select 0) canAddItemToVest (_this select 1) "
+"ZEVMission - FillContainerWeapon:  _spaceCheckFuncCode: {(_this select 0) canAddItemToVest (_this select 1)} "
+"ZEVMission - FillContainerWeapon:  _addItemFuncCode: {(_this select 0) addItemToVest (_this select 1)} "
+"ZEVMission - FillContainerWeapon:  _lootType: Specified "
+"ZEVMission - FillContainerWeapon:  _itemsQty: 1 "
+"ZEVMission - FillContainerWeapon:  _items: [["1Rnd_HE_Grenade_shell","Random",1,[]]] "
+"ZEVMission - FillContainerWeapon:  _itemName = 1Rnd_HE_Grenade_shell "
+"ZEVMission - FillContainerWeapon:  _itemCountType = Random "
+"ZEVMission - FillContainerWeapon:  _itemQty = 1 "
+"ZEVMission - FillContainerWeapon:  _itemRandomList = [] "
+"ZEVMission - AddUnit:  select skin I_Soldier_EPOCH"
+"ZEVMission - AddUnit:  selected skin I_Soldier_EPOCH"
+"ZEVMissionSelectPos: [4583.79,14158.6,0]"
+Error: Bone cheek_lf doesn't exist in skeleton OFP2_ManSkeleton
+Error: Bone nose_tip doesn't exist in skeleton OFP2_ManSkeleton
+Error: Bone lip_uplb doesn't exist in skeleton OFP2_ManSkeleton
+Error: Bone jaw_ls doesn't exist in skeleton OFP2_ManSkeleton
+Error: Bone lip_uplf doesn't exist in skeleton OFP2_ManSkeleton
+Error: Bone lip_lc doesn't exist in skeleton OFP2_ManSkeleton
+Error: Bone lip_lwlb doesn't exist in skeleton OFP2_ManSkeleton
+Error: Bone lip_lwlf doesn't exist in skeleton OFP2_ManSkeleton
+Error: Bone jaw_lm doesn't exist in skeleton OFP2_ManSkeleton
+Error: Bone zig_lb doesn't exist in skeleton OFP2_ManSkeleton
+Error: Bone lip_lwm doesn't exist in skeleton OFP2_ManSkeleton
+Error: Bone lip_upm doesn't exist in skeleton OFP2_ManSkeleton
+Error: Bone ear_l doesn't exist in skeleton OFP2_ManSkeleton
+Error: Bone corr doesn't exist in skeleton OFP2_ManSkeleton
+Error: Bone tongue_m doesn't exist in skeleton OFP2_ManSkeleton
+Error: Bone tongue_f doesn't exist in skeleton OFP2_ManSkeleton
+Error: Bone eyebrow_lb doesn't exist in skeleton OFP2_ManSkeleton
+Error: Bone eyebrow_lf doesn't exist in skeleton OFP2_ManSkeleton
+Error: Bone eyebrow_lm doesn't exist in skeleton OFP2_ManSkeleton
+Error: Bone zig_lm doesn't exist in skeleton OFP2_ManSkeleton
+Error: Bone eye_upl doesn't exist in skeleton OFP2_ManSkeleton
+Error: Bone eye_lwl doesn't exist in skeleton OFP2_ManSkeleton
+Error: Bone cheek_l doesn't exist in skeleton OFP2_ManSkeleton
+Error: Bone cheek_lb doesn't exist in skeleton OFP2_ManSkeleton
+Error: Bone zig_lt doesn't exist in skeleton OFP2_ManSkeleton
+Error: Bone nose_l doesn't exist in skeleton OFP2_ManSkeleton
+Error: Bone cheek_lm doesn't exist in skeleton OFP2_ManSkeleton
+Error: Bone nose_r doesn't exist in skeleton OFP2_ManSkeleton
+Error: Bone forehead_r doesn't exist in skeleton OFP2_ManSkeleton
+Error: Bone forehead_m doesn't exist in skeleton OFP2_ManSkeleton
+Error: Bone forehead_l doesn't exist in skeleton OFP2_ManSkeleton
+Error: Bone cheek_rb doesn't exist in skeleton OFP2_ManSkeleton
+Error: Bone eye_lwr doesn't exist in skeleton OFP2_ManSkeleton
+Error: Bone cheek_r doesn't exist in skeleton OFP2_ManSkeleton
+Error: Bone zig_rt doesn't exist in skeleton OFP2_ManSkeleton
+Error: Bone zig_rm doesn't exist in skeleton OFP2_ManSkeleton
+Error: Bone cheek_rf doesn't exist in skeleton OFP2_ManSkeleton
+Error: Bone cheek_rm doesn't exist in skeleton OFP2_ManSkeleton
+Error: Bone eyebrow_rm doesn't exist in skeleton OFP2_ManSkeleton
+Error: Bone eyebrow_rf doesn't exist in skeleton OFP2_ManSkeleton
+Error: Bone eye_upr doesn't exist in skeleton OFP2_ManSkeleton
+Error: Bone eyebrow_rb doesn't exist in skeleton OFP2_ManSkeleton
+Error: Bone tongue_b doesn't exist in skeleton OFP2_ManSkeleton
+Error: Bone ear_r doesn't exist in skeleton OFP2_ManSkeleton
+Error: Bone neck_l doesn't exist in skeleton OFP2_ManSkeleton
+Error: Bone lip_uprf doesn't exist in skeleton OFP2_ManSkeleton
+Error: Bone neck_r doesn't exist in skeleton OFP2_ManSkeleton
+Error: Bone lip_uprb doesn't exist in skeleton OFP2_ManSkeleton
+Error: Bone lip_rc doesn't exist in skeleton OFP2_ManSkeleton
+Error: Bone lip_lwrb doesn't exist in skeleton OFP2_ManSkeleton
+Error: Bone lip_lwrf doesn't exist in skeleton OFP2_ManSkeleton
+Error: Bone neck_b doesn't exist in skeleton OFP2_ManSkeleton
+Error: Bone zig_rb doesn't exist in skeleton OFP2_ManSkeleton
+Error: Bone neck_t doesn't exist in skeleton OFP2_ManSkeleton
+Error: Bone jaw_rf doesn't exist in skeleton OFP2_ManSkeleton
+Error: Bone jaw_lf doesn't exist in skeleton OFP2_ManSkeleton
+Error: Bone chin doesn't exist in skeleton OFP2_ManSkeleton
+Error: Bone jaw_rm doesn't exist in skeleton OFP2_ManSkeleton
+Error: Bone jaw_rs doesn't exist in skeleton OFP2_ManSkeleton
+Error: Bone jaw doesn't exist in skeleton OFP2_ManSkeleton
+Error: Bone headcutscene doesn't exist in skeleton OFP2_ManSkeleton
+WARNING: Function 'name' - 6c9a8100# 1814796: offroad_01_unarmed_f.p3d has no unit
+ - network id 2:1294
+WARNING: Function 'name' - 6c9a8100# 1814796: offroad_01_unarmed_f.p3d has no unit
+ - network id 2:1294
+"Spawn black list locations added for Altis"
+"[blckeagls]: Worldname is altis. Map Specific Settings Defined"
+WARNING: Function 'name' - 6c7bab00# 1814844: offroad_01_unarmed_f.p3d has no unit
+ - network id 2:1329
+WARNING: Function 'name' - 6c7bab00# 1814844: offroad_01_unarmed_f.p3d has no unit
+ - network id 2:1329
+WARNING: Function 'name' - 6d0e2b00# 1814913: offroad_01_hmg_f.p3d has no unit
+ - network id 2:1364
+WARNING: Function 'name' - 6d0e2b00# 1814913: offroad_01_hmg_f.p3d has no unit
+ - network id 2:1364
+"[blckeagls] Functions Loaded"
+"[blckeagls] >>--- Completed initialization"
+"[blckeagls] Loading Configuration Overides"
+"[blckeagls] Orange mission timer started"
+"[blckeagls] GREEN mission timer started"
+"[blckeagls] BLUE mission timer started"
+"[blckeagls] RED mission timer started"
+"ZEVMission - ZEVMissionMonitor (Static = 1) : start mission HeliPatrol"
+"SKN AdminLog ["Map to Teleport",2,B Alpha 1-1:1 (AorrowG) REMOTE,"yyiqqmhz"]"
+"SKN2 AdminRequest [["11:32","AorrowG"," -ON-","Map to Teleport"]]"
+"[HSBlackmarket] B Alpha 1-1:1 (AorrowG) REMOTE | Vehicle slots available, you can buy one that saves!"
+"[HSBlackmarket] B Alpha 1-1:1 (AorrowG) REMOTE | ["I_Heli_light_03_unarmed_EPOCH",2500,0,"cfgvehicles","WY-55 Hellcat (Unarmed)","","\A3\Air_F_EPB\Heli_Light_03\data\UI\Heli_Light_03_CA.paa","",""]"
+"[blckeagls] Starting BLUE mission SM1"
+"[blckeagls] Starting RED mission SM1"
+"ADMIN: Created crypto device for 76561197999853181 with 2224 at [5501.56,14636.8,2.77913]"
+"[KillFeed]: Server starting EPOCH_deadPlayer_PVS loop"
+WARNING: Function 'name' - AorrowG is dead
+"[KillFeed]: PKILL: AorrowG was killed by a Error: No vehicle with a  from 1e+010m | "
+Client: Object 3:14 (type Type_90) not found.
+Client: Object 3:14 (type Type_91) not found.
+Client: Object 3:14 (type Type_388) not found.
+"playerDisconnected:76561197999853181:AorrowG"
+Ragdoll - loading of ragdoll source "Soldier" started.
+Ragdoll - loading of ragdoll source "Soldier" finished successfully.
+"playerConnected:76561197999853181:AorrowG"
+No speaker given for Rahim Khalili
+"DEBUG (Load Player) Group Content: [1,["OneTwoThree","CopyCat",4,[],[["76561197999853181","AorrowG"]]]]"
+"DEBUG (Load Player) Set Group: 76561198005282239"
+Performance warning: SimpleSerialization::Write 'azqvr' is using type of ',CODE' which is not optimized by simple serialization, falling back to generic serialization, use generic type or ask for optimizations for these types
+Performance warning: SimpleSerialization::Read 'azqvr' is using type of ,'CODE' which is not optimized by simple serialization, falling back to generic serialization, use generic type or ask for optimizations for these types
+Speaker Male03_F not found in CfgVoiceTypes
+"A3EAI Monitor: Uptime: 0:6:53. FPS: 50. Active AI Groups: 9. Respawn Queue: 2 groups. HC Connected: false."
+"A3EAI Monitor: Static Spawns: 2. Dynamic Spawns: 0. Random Spawns: 12. Air Patrols: 3. Land Patrols: 3."
+"SKN AdminLog ["Map to Teleport",2,B Alpha 1-1:1 (AorrowG) REMOTE,"opneeu"]"
+"SKN2 AdminRequest [["11:32","AorrowG"," -ON-","Map to Teleport"],["11:35","AorrowG"," -ON-","Map to Teleport"]]"
+"DEBUG: _event PlantSpawner"
+x\addons\a3_epoch_assets_3\vegetation\models\pumpkin.p3d: No geometry and no visual shape
+x\addons\a3_epoch_assets_3\vegetation\models\pumpkin.p3d: No geometry and no visual shape
+"ADMIN: Created crypto device for 76561197999853181 with 0 at [5635.04,14710.5,4.34073]"
+WARNING: Function 'name' - AorrowG is dead
+"[KillFeed]: PKILL: AorrowG was killed by a Offroad (Armed) with a M2 HMG .50 from 67.6348m | I_G_Offroad_01_armed_F"
+"playerDisconnected:76561197999853181:AorrowG"
+"[blckeagls] Starting GREEN mission SM1"
+EPE manager release (200|561|0)
+Number of joints in scene after release: 14
+Number of actors in scene after release: 216
+EPE manager release (0|215|0)
+Number of joints in scene after release: 14
+Number of actors in scene after release: 16
+EPE manager release (14|16|0)
+Number of actors in scene after release: 15
+EPE manager release (0|15|0)
+Deinitialized shape [Class: "VirtualMan_EPOCH"; Shape: "a3\characters_f\common\invisibleman.p3d";]
+Deinitialized shape [Class: "VirtualMan_F"; Shape: "a3\characters_f\common\invisibleman.p3d";]
+Deinitialized shape [Class: "O_diver_F"; Shape: "a3\characters_f\common\diver_slotable.p3d";]
+Deinitialized shape [Class: "C_journalist_F"; Shape: "a3\characters_f_epc\civil\c_journalist.p3d";]
+Deinitialized shape [Class: "O_G_Soldier_M_F"; Shape: "a3\characters_f_gamma\guerrilla\ig_guerrilla3_1.p3d";]
+Deinitialized shape [Class: "C_Driver_4_F"; Shape: "a3\characters_f_kart\civil\c_driver_f.p3d";]
+Deinitialized shape [Class: "C_Driver_1_orange_F"; Shape: "a3\characters_f_kart\civil\c_driver_f.p3d";]
+Deinitialized shape [Class: "C_Driver_2_F"; Shape: "a3\characters_f_kart\civil\c_driver_f.p3d";]
+Deinitialized shape [Class: "O_G_Soldier_TL_F"; Shape: "a3\characters_f_gamma\guerrilla\ig_leader.p3d";]
+Deinitialized shape [Class: "i_survivor_F"; Shape: "a3\characters_f_beta\indep\ia_soldier_01.p3d";]
+Deinitialized shape [Class: "I_soldier_F"; Shape: "a3\characters_f_beta\indep\ia_soldier_01.p3d";]
+Deinitialized shape [Class: "I_Soldier_EPOCH"; Shape: "a3\characters_f_beta\indep\ia_soldier_01.p3d";]
+Deinitialized shape [Class: "I_Soldier_02_F"; Shape: "a3\characters_f_beta\indep\ia_soldier_02.p3d";]
+Deinitialized shape [Class: "Underwear_F"; Shape: "a3\characters_f\common\basicbody.p3d";]
+Deinitialized shape [Class: "Epoch_Male_F"; Shape: "a3\characters_f\common\basicbody.p3d";]
+Deinitialized shape [Class: "Epoch_Female_wetsuit_F"; Shape: "x\addons\a3_epoch_assets_3\cfgvehicles\characters\female_wetsuit.p3d";]
+Deinitialized shape [Class: "C_man_p_fugitive_F"; Shape: "a3\characters_f\civil\c_poor.p3d";]
+Deinitialized shape [Class: "O_Soldier_F"; Shape: "a3\characters_f\opfor\o_soldier_01.p3d";]
+Deinitialized shape [Class: "C_man_polo_5_F"; Shape: "a3\characters_f\civil\c_poloshirt.p3d";]
+Deinitialized shape [Class: "C_man_polo_2_F"; Shape: "a3\characters_f\civil\c_poloshirt.p3d";]
+Deinitialized shape [Class: "Epoch_Female_Ghillie1_F"; Shape: "x\addons\a3_epoch_assets_3\cfgvehicles\characters\female_ghillie.p3d";]
+Deinitialized shape [Class: "Epoch_Female_Ghillie2_F"; Shape: "x\addons\a3_epoch_assets_3\cfgvehicles\characters\female_ghillie.p3d";]
+Deinitialized shape [Class: "Epoch_Female_CamoRed_F"; Shape: "x\addons\a3_epoch_assets_3\cfgvehicles\characters\female_camo.p3d";]
+Deinitialized shape [Class: "Epoch_Female_CamoBrn_F"; Shape: "x\addons\a3_epoch_assets_3\cfgvehicles\characters\female_camo.p3d";]
+Deinitialized shape [Class: "Epoch_Female_CamoBlue_F"; Shape: "x\addons\a3_epoch_assets_3\cfgvehicles\characters\female_camo.p3d";]
+Deinitialized shape [Class: "Epoch_Female_Camo_F"; Shape: "x\addons\a3_epoch_assets_3\cfgvehicles\characters\female_camo.p3d";]
+Deinitialized shape [Class: "C_Orestes"; Shape: "a3\characters_f\civil\c_orestes.p3d";]
+Deinitialized shape [Class: "I_G_resistanceLeader_F"; Shape: "a3\characters_f_epb\guerrilla\ig_guerrilla4_1.p3d";]
+Deinitialized shape [Class: "O_ghillie_lsh_F"; Shape: "a3\characters_f_mark\opfor\o_fullghillie_f.p3d";]
+Deinitialized shape [Class: "C_man_w_worker_F"; Shape: "a3\characters_f\common\coveralls.p3d";]
+Deinitialized shape [Class: "C_scientist_F"; Shape: "a3\characters_f\common\coveralls.p3d";]
+c:\w\stable\futura\lib\network\networkserver.cpp ClearNetServer:NOT IMPLEMENTED - briefing!
+Error: weapon [bipod_01_F_snd] still has its shape, ref_count=1
+Error: weapon [bipod_01_F_blk] still has its shape, ref_count=1
+Error: weapon [bipod_01_F_mtp] still has its shape, ref_count=1
+Error: weapon [bipod_02_F_blk] still has its shape, ref_count=1
+Error: weapon [bipod_02_F_tan] still has its shape, ref_count=1
+Extensions:
+  epochserver (F:\Arma3server\Arma 3 Server\@epochhive\epochserver.dll) [] []
+

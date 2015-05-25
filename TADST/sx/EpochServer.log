@@ -1,0 +1,4 @@
+2015-05-25 11:32:46 [Abuse] SETEX key VehicleLock:NA123:10 does not match the allowed syntax!
+2015-05-25 22:37:44 [Abuse] SETEX key VehicleLock:NA123:25 does not match the allowed syntax!
+2015-05-25 22:41:07 [Abuse] SETEX key VehicleLock:NA123:34 does not match the allowed syntax!
+2015-05-25 23:34:52 [Abuse] SETEX key VehicleLock:NA123:80 does not match the allowed syntax!

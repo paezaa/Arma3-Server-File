@@ -1,0 +1,38 @@
+﻿22:33:26 BattlEye Server: Initialized (v1.202)
+22:33:26 Host identity created.
+22:33:26 Game Port: 2302, Steam Query Port: 2303
+22:33:38 AorrowG uses modified data file
+22:33:38 BattlEye Server: Player #0 AorrowG (192.168.1.18:2316) connected
+22:33:38 Player AorrowG connecting.
+22:33:38 Mission Epoch Mod read from bank.
+22:33:39 BattlEye Server: Player #0 AorrowG - GUID: b7d17a8995002570c68245aeaa235e9e (unverified)
+22:33:41 Player AorrowG connected (id=76561197999853181).
+22:33:42 BattlEye Server: Verified GUID (b7d17a8995002570c68245aeaa235e9e) of player #0 AorrowG
+22:33:44 BattlEye Server: Received invalid data from BE Master (7)
+22:33:44 BattlEye Server: Update attempt failed
+22:33:52 Roles assigned.
+22:33:52 Reading mission ...
+22:34:17 Mission read.
+22:35:27 Game started.
+22:37:44 BattlEye Server: Received invalid data from BE Master (7)
+22:37:44 BattlEye Server: Update attempt failed
+22:43:43 BattlEye Server: Received invalid data from BE Master (7)
+22:43:43 BattlEye Server: Update attempt failed
+22:47:42 BattlEye Server: Received invalid data from BE Master (7)
+22:47:42 BattlEye Server: Update attempt failed
+22:54:16 CopyCat uses modified data file
+22:54:16 BattlEye Server: Player #1 CopyCat (171.96.181.217:2304) connected
+22:54:16 Player CopyCat connecting.
+22:54:17 BattlEye Server: Player #1 CopyCat - GUID: 2bb54724e83651f4ee1483e8d5514eb2 (unverified)
+22:54:17 Player CopyCat connected (id=76561198005282239).
+22:54:17 BattlEye Server: Verified GUID (2bb54724e83651f4ee1483e8d5514eb2) of player #1 CopyCat
+23:05:41 BattlEye Server: Received invalid data from BE Master (7)
+23:05:41 BattlEye Server: Update attempt failed
+23:11:28 BattlEye Server: (Direct) AorrowG: c4
+23:49:37 BattlEye Server: Received invalid data from BE Master (7)
+23:49:37 BattlEye Server: Update attempt failed
+ 0:13:24 BattlEye Server: (Direct) AorrowG: 4
+ 0:14:27 Player AorrowG disconnected.
+ 0:14:27 BattlEye Server: Player #0 AorrowG disconnected
+ 0:14:31 Player CopyCat disconnected.
+ 0:14:31 BattlEye Server: Player #1 CopyCat disconnected

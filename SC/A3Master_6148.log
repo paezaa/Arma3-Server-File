@@ -1,0 +1,24 @@
+﻿20:48:16 BattlEye Server: Initialized (v1.198)
+20:48:16 Host identity created.
+20:48:16 Game Port: 2302, Steam Query Port: 2303
+20:48:17 Mission Epoch Mod read from bank.
+20:48:17 Roles assigned.
+20:48:17 Reading mission ...
+20:48:36 Mission read.
+20:48:36 Game started.
+20:50:34 AorrowG uses modified data file
+20:50:34 BattlEye Server: Player #0 AorrowG (192.168.56.1:2316) connected
+20:50:34 Player AorrowG connecting.
+20:50:36 BattlEye Server: Player #0 AorrowG - GUID: b7d17a8995002570c68245aeaa235e9e (unverified)
+20:50:36 Player AorrowG connected (id=76561197999853181).
+20:50:37 BattlEye Server: Verified GUID (b7d17a8995002570c68245aeaa235e9e) of player #0 AorrowG
+20:50:37 BattlEye Server: Could not connect to BE Master
+20:50:37 BattlEye Server: Update attempt failed
+20:51:23 BattlEye Server: Script Log: #0 AorrowG (b7d17a8995002570c68245aeaa235e9e) - #22 " 1 "mpmissions\__CUR_MP.Altis\init.sqf"
+20:51:23   
+20:51:23   if(hasInterface)then{execVM "semClient.sqf"};
+20:51:23   
+20:51:23   
+20:51:23   "
+20:51:23 Player AorrowG kicked off by BattlEye: Script Restriction #22
+20:51:24 Player AorrowG disconnected.

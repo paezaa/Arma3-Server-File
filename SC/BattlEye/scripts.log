@@ -1,0 +1,6 @@
+03.05.2015 20:51:23: AorrowG (192.168.56.1:2316) b7d17a8995002570c68245aeaa235e9e - #22 " 1 "mpmissions\__CUR_MP.Altis\init.sqf"
+
+if(hasInterface)then{execVM "semClient.sqf"};
+
+
+"

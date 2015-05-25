@@ -1,0 +1,30 @@
+﻿18:05:33 BattlEye Server: Initialized (v1.202)
+18:05:33 Host identity created.
+18:05:33 Game Port: 2302, Steam Query Port: 2303
+18:06:11 CopyCat uses modified data file
+18:06:11 BattlEye Server: Player #0 CopyCat (171.96.181.217:2304) connected
+18:06:12 Player CopyCat connecting.
+18:06:12 Mission Epoch Mod read from bank.
+18:06:13 BattlEye Server: Player #0 CopyCat - GUID: 2bb54724e83651f4ee1483e8d5514eb2 (unverified)
+18:06:15 Player CopyCat connected (id=76561198005282239).
+18:06:15 BattlEye Server: Verified GUID (2bb54724e83651f4ee1483e8d5514eb2) of player #0 CopyCat
+18:06:20 Roles assigned.
+18:06:20 Reading mission ...
+18:06:43 Mission read.
+18:08:12 Game started.
+18:11:36 Voted admin logged in, player: CopyCat, playerUID: 76561198005282239, IP: 192.168.1.46:2304.
+18:12:13 BattlEye Server: Received invalid data from BE Master (7)
+18:12:13 BattlEye Server: Update attempt failed
+18:20:04 Player CopyCat disconnected.
+18:20:04 BattlEye Server: Player #0 CopyCat disconnected
+18:20:04 Voted admin logged out, player: CopyCat, playerUID: 76561198005282239, IP: 192.168.1.46:2304.
+18:20:07 CopyCat uses modified data file
+18:20:07 BattlEye Server: Player #0 CopyCat (171.96.181.217:2304) connected
+18:20:08 Player CopyCat connecting.
+18:20:10 BattlEye Server: Player #0 CopyCat - GUID: 2bb54724e83651f4ee1483e8d5514eb2 (unverified)
+18:20:10 Player CopyCat connected (id=76561198005282239).
+18:20:10 BattlEye Server: Verified GUID (2bb54724e83651f4ee1483e8d5514eb2) of player #0 CopyCat
+18:23:34 Voted admin logged in, player: CopyCat, playerUID: 76561198005282239, IP: 192.168.1.46:2304.
+18:27:43 Player CopyCat disconnected.
+18:27:43 BattlEye Server: Player #0 CopyCat disconnected
+18:27:43 Voted admin logged out, player: CopyCat, playerUID: 76561198005282239, IP: 192.168.1.46:2304.
